@@ -20,8 +20,8 @@
     "DownSetTime": 50
   },
   "linkNo": 6,
-  "InvertNum": 12,
-  "Capacity_VA": 1173,
+  "InvertNum": 10,
+  "Capacity_VA": 953,
   "GirdPointDataItem": [
     {
       "Name": "并网点电压",
@@ -308,7 +308,7 @@
     {
       "No": 6,
       "Name": "逆变器7",
-      "Capacity_VA": 110,
+      "Capacity_VA": 40,
       "P_RtdbNo": 0,
       "Q_RtdbNo": 0,
       "Cos_RtdbNo": 0,
@@ -440,7 +440,7 @@
     {
       "No": 9,
       "Name": "逆变器10",
-      "Capacity_VA": 110,
+      "Capacity_VA": 33,
       "P_RtdbNo": 0,
       "Q_RtdbNo": 0,
       "Cos_RtdbNo": 0,
@@ -478,94 +478,6 @@
           "RegNo": 3,
           "type": 1,
           "Name": "逆变器10的无功出力比率"
-        }
-      ]
-    },
-    {
-      "No": 10,
-      "Name": "逆变器11",
-      "Capacity_VA": 40,
-      "P_RtdbNo": 0,
-      "Q_RtdbNo": 0,
-      "Cos_RtdbNo": 0,
-      "CallBackNo": 3,
-      "CallBackAddr": 32842,
-      "AVCCallBackNo": 0,
-      "AVCCallBackAddr": 0,
-      "ComStatue": [
-        {
-          "devNo": 11,
-          "RegNo": 0,
-          "type": 0,
-          "Name": "逆变器11通讯状态"
-        }
-      ],
-      "InverCapacityOutVal": [
-        {
-          "devNo": 11,
-          "RegNo": 1,
-          "type": 1,
-          "Name": "逆变器11容量调节值"
-        }
-      ],
-      "InverPOutVal": [
-        {
-          "devNo": 11,
-          "RegNo": 2,
-          "type": 1,
-          "Name": "逆变器11的有功出力比率"
-        }
-      ],
-      "InverCosOutVal": [
-        {
-          "devNo": 11,
-          "RegNo": 3,
-          "type": 1,
-          "Name": "逆变器11的无功出力比率"
-        }
-      ]
-    },
-    {
-      "No": 11,
-      "Name": "逆变器12",
-      "Capacity_VA": 33,
-      "P_RtdbNo": 0,
-      "Q_RtdbNo": 0,
-      "Cos_RtdbNo": 0,
-      "CallBackNo": 3,
-      "CallBackAddr": 32846,
-      "AVCCallBackNo": 0,
-      "AVCCallBackAddr": 0,
-      "ComStatue": [
-        {
-          "devNo": 12,
-          "RegNo": 0,
-          "type": 0,
-          "Name": "逆变器12通讯状态"
-        }
-      ],
-      "InverCapacityOutVal": [
-        {
-          "devNo": 12,
-          "RegNo": 1,
-          "type": 1,
-          "Name": "逆变器12容量调节值"
-        }
-      ],
-      "InverPOutVal": [
-        {
-          "devNo": 12,
-          "RegNo": 2,
-          "type": 1,
-          "Name": "逆变器12的有功出力比率"
-        }
-      ],
-      "InverCosOutVal": [
-        {
-          "devNo": 12,
-          "RegNo": 3,
-          "type": 1,
-          "Name": "逆变器12的无功出力比率"
         }
       ]
     }
