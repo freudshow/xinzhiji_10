@@ -1,0 +1,1648 @@
+{
+  "Pad": {
+    "TotalYcCount": 54,
+    "TotalYxCount": 26,
+    "TotalYkCount": 16,
+    "TotalDDCount": 20,
+    "TotalParameterCount": 0,
+    "YcRatioEnable": 1,
+    "RecordingYkOpera": 0,
+    "LinkAddr": 1,
+    "SingleORDoubleInit": 0,
+    "LinkAddrLen": 2,
+    "VsqLen": 1,
+    "coTlen": 2,
+    "AsduLen": 2,
+    "InfoAddrLen": 3,
+    "YxType": 1,
+    "YcType": 13,
+    "DdType": 206,
+    "YkType": 45,
+    "T0TimeOut": 300,
+    "T1TimeOut": 30,
+    "T2TimeOut": 12,
+    "T3TimeOut": 20,
+    "k": 12,
+    "w": 8,
+    "baseyear": 2000,
+    "alldatainterval": 0,
+    "allddinterval": 0,
+    "setclockinterval": 0,
+    "testlinkinterval": 0,
+    "encrypt": 0,
+    "sendcos": 1,
+    "BackScan": 1,
+    "ThreadAfterSndDelayms": 100,
+    "ThreadAfterRcvDelayms": 100
+  },
+  "ParaInstruction": "v0.1运用园区",
+  "Para": [
+    {
+      "SN": 0,
+      "Running_info": [
+        {
+          "No": 1,
+          "Addr": 32800,
+          "Desc": "并网点有功AGC调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 8
+        },
+        {
+          "No": 2,
+          "Addr": 32801,
+          "Desc": "并网点无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 3,
+          "Addr": 32802,
+          "Desc": "逆变器1-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 4,
+          "Addr": 32803,
+          "Desc": "逆变器1-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 5,
+          "Addr": 32804,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 6,
+          "Addr": 32805,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 1
+        },
+        {
+          "No": 7,
+          "Addr": 32806,
+          "Desc": "逆变器2-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 8,
+          "Addr": 32807,
+          "Desc": "逆变器2-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 9,
+          "Addr": 32808,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 10,
+          "Addr": 32809,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 1
+        },
+        {
+          "No": 11,
+          "Addr": 32810,
+          "Desc": "逆变器3-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 12,
+          "Addr": 32811,
+          "Desc": "逆变器3-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 13,
+          "Addr": 32812,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 14,
+          "Addr": 32813,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 1
+        },
+        {
+          "No": 15,
+          "Addr": 32814,
+          "Desc": "逆变器4-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 16,
+          "Addr": 32815,
+          "Desc": "逆变器4-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 17,
+          "Addr": 32816,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 18,
+          "Addr": 32817,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 19,
+          "Addr": 32818,
+          "Desc": "逆变器5-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 20,
+          "Addr": 32819,
+          "Desc": "逆变器5-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 21,
+          "Addr": 32820,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 22,
+          "Addr": 32821,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 1
+        },
+        {
+          "No": 23,
+          "Addr": 32822,
+          "Desc": "逆变器6-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 24,
+          "Addr": 32823,
+          "Desc": "逆变器6-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 25,
+          "Addr": 32824,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 26,
+          "Addr": 32825,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 1
+        },
+        {
+          "No": 27,
+          "Addr": 32826,
+          "Desc": "逆变器7-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 28,
+          "Addr": 32827,
+          "Desc": "逆变器7-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 29,
+          "Addr": 32828,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 30,
+          "Addr": 32829,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 1
+        },
+        {
+          "No": 31,
+          "Addr": 32830,
+          "Desc": "逆变器8-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 32,
+          "Addr": 32831,
+          "Desc": "逆变器8-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 33,
+          "Addr": 32832,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 34,
+          "Addr": 32833,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 1
+        },
+        {
+          "No": 35,
+          "Addr": 32834,
+          "Desc": "逆变器9-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 36,
+          "Addr": 32835,
+          "Desc": "逆变器9-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 37,
+          "Addr": 32836,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 38,
+          "Addr": 32837,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 1
+        },
+        {
+          "No": 39,
+          "Addr": 32838,
+          "Desc": "逆变器10-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 40,
+          "Addr": 32839,
+          "Desc": "逆变器10-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 41,
+          "Addr": 32840,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 42,
+          "Addr": 32841,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 1
+        },
+        {
+          "No": 43,
+          "Addr": 32842,
+          "Desc": "逆变器11-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 44,
+          "Addr": 32843,
+          "Desc": "逆变器11-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 45,
+          "Addr": 32844,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 46,
+          "Addr": 32845,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 1
+        },
+        {
+          "No": 47,
+          "Addr": 32846,
+          "Desc": "逆变器12-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 48,
+          "Addr": 32847,
+          "Desc": "逆变器12-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 49,
+          "Addr": 32848,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 50,
+          "Addr": 32849,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 1
+        }
+      ],
+      "Actionfixed_info": []
+    }
+  ],
+  "FaultEventSubmission": [],
+  "YCDataItem": [
+    {
+      "No": 0,
+      "Name": "设备[0]-当前正向有功总电能",
+      "Unit": null,
+      "Addr": 16385,
+      "Xishu": 1.0,
+      "RealDevNo": 1330,
+      "type": 1,
+      "Idx": 0
+    },
+    {
+      "No": 1,
+      "Name": "设备[0]-(1)电压数据块",
+      "Unit": null,
+      "Addr": 16386,
+      "Xishu": 1.0,
+      "RealDevNo": 1331,
+      "type": 1,
+      "Idx": 1
+    },
+    {
+      "No": 2,
+      "Name": "设备[0]-(1)电压数据块",
+      "Unit": null,
+      "Addr": 16387,
+      "Xishu": 1.0,
+      "RealDevNo": 1332,
+      "type": 1,
+      "Idx": 2
+    },
+    {
+      "No": 3,
+      "Name": "设备[0]-(1)电压数据块",
+      "Unit": null,
+      "Addr": 16388,
+      "Xishu": 1.0,
+      "RealDevNo": 1333,
+      "type": 1,
+      "Idx": 3
+    },
+    {
+      "No": 4,
+      "Name": "设备[0]-(1)电流数据块",
+      "Unit": null,
+      "Addr": 16389,
+      "Xishu": 1.0,
+      "RealDevNo": 1334,
+      "type": 1,
+      "Idx": 4
+    },
+    {
+      "No": 5,
+      "Name": "设备[0]-(1)电流数据块",
+      "Unit": null,
+      "Addr": 16390,
+      "Xishu": 1.0,
+      "RealDevNo": 1335,
+      "type": 1,
+      "Idx": 5
+    },
+    {
+      "No": 6,
+      "Name": "设备[0]-(1)电流数据块",
+      "Unit": null,
+      "Addr": 16391,
+      "Xishu": 1.0,
+      "RealDevNo": 1336,
+      "type": 1,
+      "Idx": 6
+    },
+    {
+      "No": 7,
+      "Name": "设备[0]-(1)有功功率数据块",
+      "Unit": null,
+      "Addr": 16392,
+      "Xishu": 1.0,
+      "RealDevNo": 1337,
+      "type": 1,
+      "Idx": 7
+    },
+    {
+      "No": 8,
+      "Name": "设备[0]-(1)有功功率数据块",
+      "Unit": null,
+      "Addr": 16393,
+      "Xishu": 1.0,
+      "RealDevNo": 1338,
+      "type": 1,
+      "Idx": 8
+    },
+    {
+      "No": 9,
+      "Name": "设备[0]-(1)有功功率数据块",
+      "Unit": null,
+      "Addr": 16394,
+      "Xishu": 1.0,
+      "RealDevNo": 1339,
+      "type": 1,
+      "Idx": 9
+    },
+    {
+      "No": 10,
+      "Name": "设备[0]-(1)有功功率数据块",
+      "Unit": null,
+      "Addr": 16395,
+      "Xishu": 1.0,
+      "RealDevNo": 1340,
+      "type": 1,
+      "Idx": 10
+    },
+    {
+      "No": 11,
+      "Name": "设备[0]-(1)无功功率数据块",
+      "Unit": null,
+      "Addr": 16396,
+      "Xishu": 1.0,
+      "RealDevNo": 1341,
+      "type": 1,
+      "Idx": 11
+    },
+    {
+      "No": 12,
+      "Name": "设备[0]-(1)无功功率数据块",
+      "Unit": null,
+      "Addr": 16397,
+      "Xishu": 1.0,
+      "RealDevNo": 1342,
+      "type": 1,
+      "Idx": 12
+    },
+    {
+      "No": 13,
+      "Name": "设备[0]-(1)无功功率数据块",
+      "Unit": null,
+      "Addr": 16398,
+      "Xishu": 1.0,
+      "RealDevNo": 1343,
+      "type": 1,
+      "Idx": 13
+    },
+    {
+      "No": 14,
+      "Name": "设备[0]-(1)无功功率数据块",
+      "Unit": null,
+      "Addr": 16399,
+      "Xishu": 1.0,
+      "RealDevNo": 1344,
+      "type": 1,
+      "Idx": 14
+    },
+    {
+      "No": 15,
+      "Name": "设备[0]-(1)功率因数数据块",
+      "Unit": null,
+      "Addr": 16400,
+      "Xishu": 1.0,
+      "RealDevNo": 1345,
+      "type": 1,
+      "Idx": 15
+    },
+    {
+      "No": 16,
+      "Name": "设备[0]-(1)功率因数数据块",
+      "Unit": null,
+      "Addr": 16401,
+      "Xishu": 1.0,
+      "RealDevNo": 1346,
+      "type": 1,
+      "Idx": 16
+    },
+    {
+      "No": 17,
+      "Name": "设备[0]-(1)功率因数数据块",
+      "Unit": null,
+      "Addr": 16402,
+      "Xishu": 1.0,
+      "RealDevNo": 1347,
+      "type": 1,
+      "Idx": 17
+    },
+    {
+      "No": 18,
+      "Name": "设备[0]-(1)功率因数数据块",
+      "Unit": null,
+      "Addr": 16403,
+      "Xishu": 1.0,
+      "RealDevNo": 1348,
+      "type": 1,
+      "Idx": 18
+    },
+    {
+      "No": 19,
+      "Name": "设备[0]-(1)电网频率",
+      "Unit": null,
+      "Addr": 16404,
+      "Xishu": 1.0,
+      "RealDevNo": 1349,
+      "type": 1,
+      "Idx": 19
+    },
+    {
+      "No": 20,
+      "Name": "设备[0]-(1)*相角数据块",
+      "Unit": null,
+      "Addr": 16405,
+      "Xishu": 1.0,
+      "RealDevNo": 1350,
+      "type": 1,
+      "Idx": 20
+    },
+    {
+      "No": 21,
+      "Name": "设备[0]-(1)*相角数据块",
+      "Unit": null,
+      "Addr": 16406,
+      "Xishu": 1.0,
+      "RealDevNo": 1351,
+      "type": 1,
+      "Idx": 21
+    },
+    {
+      "No": 22,
+      "Name": "设备[0]-(1)*相角数据块",
+      "Unit": null,
+      "Addr": 16407,
+      "Xishu": 1.0,
+      "RealDevNo": 1352,
+      "type": 1,
+      "Idx": 22
+    },
+    {
+      "No": 23,
+      "Name": "设备[1]-并网点电表1-CT变比",
+      "Unit": null,
+      "Addr": 16408,
+      "Xishu": 1.0,
+      "RealDevNo": 651,
+      "type": 1,
+      "Idx": 23
+    },
+    {
+      "No": 24,
+      "Name": "设备[1]-预留遥测1",
+      "Unit": null,
+      "Addr": 16409,
+      "Xishu": 1.0,
+      "RealDevNo": 663,
+      "type": 1,
+      "Idx": 24
+    },
+    {
+      "No": 25,
+      "Name": "设备[1]-预留遥测1",
+      "Unit": null,
+      "Addr": 16410,
+      "Xishu": 1.0,
+      "RealDevNo": 663,
+      "type": 1,
+      "Idx": 25
+    },
+    {
+      "No": 26,
+      "Name": "设备[1]-预留遥测1",
+      "Unit": null,
+      "Addr": 16411,
+      "Xishu": 1.0,
+      "RealDevNo": 663,
+      "type": 1,
+      "Idx": 26
+    },
+    {
+      "No": 27,
+      "Name": "设备[1]-预留遥测1",
+      "Unit": null,
+      "Addr": 16412,
+      "Xishu": 1.0,
+      "RealDevNo": 663,
+      "type": 1,
+      "Idx": 27
+    },
+    {
+      "No": 28,
+      "Name": "设备[1]-预留遥测2",
+      "Unit": null,
+      "Addr": 16413,
+      "Xishu": 1.0,
+      "RealDevNo": 664,
+      "type": 1,
+      "Idx": 28
+    },
+    {
+      "No": 29,
+      "Name": "设备[1]-预留遥测2",
+      "Unit": null,
+      "Addr": 16414,
+      "Xishu": 1.0,
+      "RealDevNo": 664,
+      "type": 1,
+      "Idx": 29
+    },
+    {
+      "No": 30,
+      "Name": "设备[1]-预留遥测2",
+      "Unit": null,
+      "Addr": 16415,
+      "Xishu": 1.0,
+      "RealDevNo": 664,
+      "type": 1,
+      "Idx": 30
+    },
+    {
+      "No": 31,
+      "Name": "设备[1]-预留遥测2",
+      "Unit": null,
+      "Addr": 16416,
+      "Xishu": 1.0,
+      "RealDevNo": 664,
+      "type": 1,
+      "Idx": 31
+    },
+    {
+      "No": 32,
+      "Name": "设备[1]-预留遥测2",
+      "Unit": null,
+      "Addr": 16417,
+      "Xishu": 1.0,
+      "RealDevNo": 664,
+      "type": 1,
+      "Idx": 32
+    },
+    {
+      "No": 33,
+      "Name": "设备[1]-预留遥测2",
+      "Unit": null,
+      "Addr": 16418,
+      "Xishu": 1.0,
+      "RealDevNo": 664,
+      "type": 1,
+      "Idx": 33
+    },
+    {
+      "No": 34,
+      "Name": "设备[1]-预留遥测2",
+      "Unit": null,
+      "Addr": 16419,
+      "Xishu": 1.0,
+      "RealDevNo": 664,
+      "type": 1,
+      "Idx": 34
+    },
+    {
+      "No": 35,
+      "Name": "设备[1]-预留遥测2",
+      "Unit": null,
+      "Addr": 16420,
+      "Xishu": 1.0,
+      "RealDevNo": 664,
+      "type": 1,
+      "Idx": 35
+    },
+    {
+      "No": 36,
+      "Name": "设备[1]-预留遥测2",
+      "Unit": null,
+      "Addr": 16421,
+      "Xishu": 1.0,
+      "RealDevNo": 664,
+      "type": 1,
+      "Idx": 36
+    },
+    {
+      "No": 37,
+      "Name": "设备[1]-预留遥测2",
+      "Unit": null,
+      "Addr": 16422,
+      "Xishu": 1.0,
+      "RealDevNo": 664,
+      "type": 1,
+      "Idx": 37
+    },
+    {
+      "No": 38,
+      "Name": "设备[1]-预留遥测2",
+      "Unit": null,
+      "Addr": 16423,
+      "Xishu": 1.0,
+      "RealDevNo": 664,
+      "type": 1,
+      "Idx": 38
+    },
+    {
+      "No": 39,
+      "Name": "设备[1]-逆变器1-A相电压",
+      "Unit": null,
+      "Addr": 16424,
+      "Xishu": 1.0,
+      "RealDevNo": 1075,
+      "type": 1,
+      "Idx": 39
+    },
+    {
+      "No": 40,
+      "Name": "设备[1]-逆变器1-B相电压",
+      "Unit": null,
+      "Addr": 16425,
+      "Xishu": 1.0,
+      "RealDevNo": 1080,
+      "type": 1,
+      "Idx": 40
+    },
+    {
+      "No": 41,
+      "Name": "设备[1]-逆变器1-C相电压",
+      "Unit": null,
+      "Addr": 16426,
+      "Xishu": 1.0,
+      "RealDevNo": 1085,
+      "type": 1,
+      "Idx": 41
+    },
+    {
+      "No": 42,
+      "Name": "设备[1]-逆变器1-A相电流",
+      "Unit": null,
+      "Addr": 16427,
+      "Xishu": 1.0,
+      "RealDevNo": 1076,
+      "type": 1,
+      "Idx": 42
+    },
+    {
+      "No": 43,
+      "Name": "设备[1]-逆变器1-B相电流",
+      "Unit": null,
+      "Addr": 16428,
+      "Xishu": 1.0,
+      "RealDevNo": 1081,
+      "type": 1,
+      "Idx": 43
+    },
+    {
+      "No": 44,
+      "Name": "设备[1]-逆变器1-C相电流",
+      "Unit": null,
+      "Addr": 16429,
+      "Xishu": 1.0,
+      "RealDevNo": 1086,
+      "type": 1,
+      "Idx": 44
+    },
+    {
+      "No": 45,
+      "Name": "设备[1]-逆变器1-总有功功率",
+      "Unit": null,
+      "Addr": 16430,
+      "Xishu": 1.0,
+      "RealDevNo": 1072,
+      "type": 1,
+      "Idx": 45
+    },
+    {
+      "No": 46,
+      "Name": "设备[1]-逆变器1-总无功功率",
+      "Unit": null,
+      "Addr": 16431,
+      "Xishu": 1.0,
+      "RealDevNo": 1073,
+      "type": 1,
+      "Idx": 46
+    },
+    {
+      "No": 47,
+      "Name": "设备[1]-逆变器1-额定容量",
+      "Unit": null,
+      "Addr": 16432,
+      "Xishu": 1.0,
+      "RealDevNo": 653,
+      "type": 1,
+      "Idx": 47
+    },
+    {
+      "No": 48,
+      "Name": "设备[1]-逆变器1-运行状态",
+      "Unit": null,
+      "Addr": 16433,
+      "Xishu": 1.0,
+      "RealDevNo": 1092,
+      "type": 1,
+      "Idx": 48
+    },
+    {
+      "No": 49,
+      "Name": "设备[1]-预留遥测3",
+      "Unit": null,
+      "Addr": 16434,
+      "Xishu": 1.0,
+      "RealDevNo": 665,
+      "type": 1,
+      "Idx": 49
+    },
+    {
+      "No": 50,
+      "Name": "设备[1]-预留遥测3",
+      "Unit": null,
+      "Addr": 16435,
+      "Xishu": 1.0,
+      "RealDevNo": 665,
+      "type": 1,
+      "Idx": 50
+    },
+    {
+      "No": 51,
+      "Name": "设备[1]-预留遥测3",
+      "Unit": null,
+      "Addr": 16436,
+      "Xishu": 1.0,
+      "RealDevNo": 665,
+      "type": 1,
+      "Idx": 51
+    },
+    {
+      "No": 52,
+      "Name": "设备[1]-预留遥测3",
+      "Unit": null,
+      "Addr": 16437,
+      "Xishu": 1.0,
+      "RealDevNo": 665,
+      "type": 1,
+      "Idx": 52
+    },
+    {
+      "No": 53,
+      "Name": "设备[1]-预留遥测3",
+      "Unit": null,
+      "Addr": 16438,
+      "Xishu": 1.0,
+      "RealDevNo": 665,
+      "type": 1,
+      "Idx": 53
+    }
+  ],
+  "YXDataItem": [
+    {
+      "No": 0,
+      "Name": "设备[0]-第1路硬遥信",
+      "Unit": null,
+      "Addr": 1,
+      "Xishu": 1.0,
+      "RealDevNo": 9,
+      "type": 0,
+      "Idx": 0
+    },
+    {
+      "No": 1,
+      "Name": "设备[2]-有压自动合闸软压板状态",
+      "Unit": null,
+      "Addr": 2,
+      "Xishu": 1.0,
+      "RealDevNo": 128,
+      "type": 0,
+      "Idx": 1
+    },
+    {
+      "No": 2,
+      "Name": "设备[0]-子方阵AGC投入",
+      "Unit": null,
+      "Addr": 3,
+      "Xishu": 1.0,
+      "RealDevNo": 25,
+      "type": 0,
+      "Idx": 2
+    },
+    {
+      "No": 3,
+      "Name": "设备[0]-子方阵运行状态",
+      "Unit": null,
+      "Addr": 4,
+      "Xishu": 1.0,
+      "RealDevNo": 23,
+      "type": 0,
+      "Idx": 3
+    },
+    {
+      "No": 4,
+      "Name": "设备[2]-备用遥信21",
+      "Unit": null,
+      "Addr": 5,
+      "Xishu": 1.0,
+      "RealDevNo": 130,
+      "type": 0,
+      "Idx": 4
+    },
+    {
+      "No": 5,
+      "Name": "设备[0]-子方阵AVC投入",
+      "Unit": null,
+      "Addr": 6,
+      "Xishu": 1.0,
+      "RealDevNo": 26,
+      "type": 0,
+      "Idx": 5
+    },
+    {
+      "No": 6,
+      "Name": "设备[0]-预留遥信2",
+      "Unit": null,
+      "Addr": 7,
+      "Xishu": 1.0,
+      "RealDevNo": 552,
+      "type": 0,
+      "Idx": 6
+    },
+    {
+      "No": 7,
+      "Name": "设备[0]-预留遥信2",
+      "Unit": null,
+      "Addr": 8,
+      "Xishu": 1.0,
+      "RealDevNo": 552,
+      "type": 0,
+      "Idx": 7
+    },
+    {
+      "No": 8,
+      "Name": "设备[0]-预留遥信2",
+      "Unit": null,
+      "Addr": 9,
+      "Xishu": 1.0,
+      "RealDevNo": 552,
+      "type": 0,
+      "Idx": 8
+    },
+    {
+      "No": 9,
+      "Name": "设备[0]-预留遥信2",
+      "Unit": null,
+      "Addr": 10,
+      "Xishu": 1.0,
+      "RealDevNo": 552,
+      "type": 0,
+      "Idx": 9
+    },
+    {
+      "No": 10,
+      "Name": "设备[0]-预留遥信2",
+      "Unit": null,
+      "Addr": 11,
+      "Xishu": 1.0,
+      "RealDevNo": 552,
+      "type": 0,
+      "Idx": 10
+    },
+    {
+      "No": 11,
+      "Name": "设备[0]-预留遥信2",
+      "Unit": null,
+      "Addr": 12,
+      "Xishu": 1.0,
+      "RealDevNo": 552,
+      "type": 0,
+      "Idx": 11
+    },
+    {
+      "No": 12,
+      "Name": "设备[0]-电表1-电压逆相序",
+      "Unit": null,
+      "Addr": 13,
+      "Xishu": 1.0,
+      "RealDevNo": 1678,
+      "type": 0,
+      "Idx": 12
+    },
+    {
+      "No": 13,
+      "Name": "设备[0]-电表1-电流逆相序",
+      "Unit": null,
+      "Addr": 14,
+      "Xishu": 1.0,
+      "RealDevNo": 1679,
+      "type": 0,
+      "Idx": 13
+    },
+    {
+      "No": 14,
+      "Name": "设备[0]-电表1-电压不平衡",
+      "Unit": null,
+      "Addr": 15,
+      "Xishu": 1.0,
+      "RealDevNo": 1680,
+      "type": 0,
+      "Idx": 14
+    },
+    {
+      "No": 15,
+      "Name": "设备[0]-电表1-电流不平衡",
+      "Unit": null,
+      "Addr": 16,
+      "Xishu": 1.0,
+      "RealDevNo": 1681,
+      "type": 0,
+      "Idx": 15
+    },
+    {
+      "No": 16,
+      "Name": "设备[0]-电表1-功率因数超下限",
+      "Unit": null,
+      "Addr": 17,
+      "Xishu": 1.0,
+      "RealDevNo": 1685,
+      "type": 0,
+      "Idx": 16
+    },
+    {
+      "No": 17,
+      "Name": "设备[0]-电表1-电流严重不平衡",
+      "Unit": null,
+      "Addr": 18,
+      "Xishu": 1.0,
+      "RealDevNo": 1686,
+      "type": 0,
+      "Idx": 17
+    },
+    {
+      "No": 18,
+      "Name": "设备[0]-预留遥信1",
+      "Unit": null,
+      "Addr": 19,
+      "Xishu": 1.0,
+      "RealDevNo": 542,
+      "type": 0,
+      "Idx": 18
+    },
+    {
+      "No": 19,
+      "Name": "设备[0]-预留遥信1",
+      "Unit": null,
+      "Addr": 20,
+      "Xishu": 1.0,
+      "RealDevNo": 542,
+      "type": 0,
+      "Idx": 19
+    },
+    {
+      "No": 20,
+      "Name": "设备[0]-预留遥信1",
+      "Unit": null,
+      "Addr": 21,
+      "Xishu": 1.0,
+      "RealDevNo": 542,
+      "type": 0,
+      "Idx": 20
+    },
+    {
+      "No": 21,
+      "Name": "设备[0]-逆变器1-运行",
+      "Unit": null,
+      "Addr": 22,
+      "Xishu": 1.0,
+      "RealDevNo": 492,
+      "type": 0,
+      "Idx": 21
+    },
+    {
+      "No": 22,
+      "Name": "设备[0]-逆变器1-故障停机",
+      "Unit": null,
+      "Addr": 23,
+      "Xishu": 1.0,
+      "RealDevNo": 495,
+      "type": 0,
+      "Idx": 22
+    },
+    {
+      "No": 23,
+      "Name": "设备[0]-逆变器1-停机",
+      "Unit": null,
+      "Addr": 24,
+      "Xishu": 1.0,
+      "RealDevNo": 493,
+      "type": 0,
+      "Idx": 23
+    },
+    {
+      "No": 24,
+      "Name": "设备[0]-逆变器1-待机",
+      "Unit": null,
+      "Addr": 25,
+      "Xishu": 1.0,
+      "RealDevNo": 497,
+      "type": 0,
+      "Idx": 24
+    },
+    {
+      "No": 25,
+      "Name": "设备[0]-预留遥信3",
+      "Unit": null,
+      "Addr": 26,
+      "Xishu": 1.0,
+      "RealDevNo": 553,
+      "type": 0,
+      "Idx": 25
+    }
+  ],
+  "YKDataItem": [
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 1,
+      "No": 0,
+      "Name": "设备[1]-子方阵启停(单点)_软压板遥控22",
+      "Unit": null,
+      "Addr": 24577,
+      "RealDevNo": 22,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 2,
+      "No": 1,
+      "Name": "设备[1]-子方阵启停(单点)_软压板遥控22",
+      "Unit": null,
+      "Addr": 24577,
+      "RealDevNo": 22,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 1,
+      "No": 2,
+      "Name": "设备[1]-子方阵AGC投入(单点）_软压板遥控23",
+      "Unit": null,
+      "Addr": 24578,
+      "RealDevNo": 23,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 2,
+      "No": 3,
+      "Name": "设备[1]-子方阵AGC投入(单点）_软压板遥控23",
+      "Unit": null,
+      "Addr": 24578,
+      "RealDevNo": 23,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 1,
+      "No": 4,
+      "Name": "设备[1]-设备自身遥控1",
+      "Unit": null,
+      "Addr": 24579,
+      "RealDevNo": 1,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 2,
+      "No": 5,
+      "Name": "设备[1]-设备自身遥控2",
+      "Unit": null,
+      "Addr": 24579,
+      "RealDevNo": 2,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 1,
+      "No": 6,
+      "Name": "设备[1]-有压自动合闸软压板遥控32",
+      "Unit": null,
+      "Addr": 24580,
+      "RealDevNo": 32,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 2,
+      "No": 7,
+      "Name": "设备[1]-有压自动合闸软压板遥控32",
+      "Unit": null,
+      "Addr": 24580,
+      "RealDevNo": 32,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 1,
+      "No": 8,
+      "Name": "设备[1]-子方阵AVC投入(单点)_软压板遥控24",
+      "Unit": null,
+      "Addr": 24581,
+      "RealDevNo": 24,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 2,
+      "No": 9,
+      "Name": "设备[1]-子方阵AVC投入(单点)_软压板遥控24",
+      "Unit": null,
+      "Addr": 24581,
+      "RealDevNo": 24,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 1,
+      "No": 10,
+      "Name": "设备[0]-逆变器1-组合关机",
+      "Unit": null,
+      "Addr": 24582,
+      "RealDevNo": 241,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 2,
+      "No": 11,
+      "Name": "设备[0]-逆变器1-组合开机",
+      "Unit": null,
+      "Addr": 24582,
+      "RealDevNo": 242,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 1,
+      "No": 12,
+      "Name": "设备[1]-预留设备自身遥控3",
+      "Unit": null,
+      "Addr": 24583,
+      "RealDevNo": 3,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 2,
+      "No": 13,
+      "Name": "设备[1]-预留设备自身遥控4",
+      "Unit": null,
+      "Addr": 24583,
+      "RealDevNo": 4,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 1,
+      "No": 14,
+      "Name": "设备[1]-预留设备自身遥控5",
+      "Unit": null,
+      "Addr": 24584,
+      "RealDevNo": 5,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 2,
+      "No": 15,
+      "Name": "设备[1]-预留设备自身遥控6",
+      "Unit": null,
+      "Addr": 24584,
+      "RealDevNo": 6,
+      "type": 2,
+      "Idx": 0
+    }
+  ],
+  "DDDataItem": [
+    {
+      "No": 0,
+      "Name": "设备[1]-逆变器1-当日发电量",
+      "Unit": null,
+      "Addr": 25601,
+      "Xishu": 1.0,
+      "RealDevNo": 1090,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 1,
+      "Name": "设备[1]-逆变器1-总发电量",
+      "Unit": null,
+      "Addr": 25602,
+      "Xishu": 1.0,
+      "RealDevNo": 1091,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 2,
+      "Name": "设备[2]-逆变器2-当日发电量",
+      "Unit": null,
+      "Addr": 25603,
+      "Xishu": 1.0,
+      "RealDevNo": 1112,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 3,
+      "Name": "设备[2]-逆变器2-总发电量",
+      "Unit": null,
+      "Addr": 25604,
+      "Xishu": 1.0,
+      "RealDevNo": 1113,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 4,
+      "Name": "设备[3]-逆变器3-当日发电量",
+      "Unit": null,
+      "Addr": 25605,
+      "Xishu": 1.0,
+      "RealDevNo": 1134,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 5,
+      "Name": "设备[3]-逆变器3-总发电量",
+      "Unit": null,
+      "Addr": 25606,
+      "Xishu": 1.0,
+      "RealDevNo": 1135,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 6,
+      "Name": "设备[4]-逆变器4-当日发电量",
+      "Unit": null,
+      "Addr": 25607,
+      "Xishu": 1.0,
+      "RealDevNo": 1156,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 7,
+      "Name": "设备[4]-逆变器4-总发电量",
+      "Unit": null,
+      "Addr": 25608,
+      "Xishu": 1.0,
+      "RealDevNo": 1157,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 8,
+      "Name": "设备[5]-逆变器5-当日发电量",
+      "Unit": null,
+      "Addr": 25609,
+      "Xishu": 1.0,
+      "RealDevNo": 1178,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 9,
+      "Name": "设备[5]-逆变器5-总发电量",
+      "Unit": null,
+      "Addr": 25610,
+      "Xishu": 1.0,
+      "RealDevNo": 1179,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 10,
+      "Name": "设备[6]-逆变器6-当日发电量",
+      "Unit": null,
+      "Addr": 25611,
+      "Xishu": 1.0,
+      "RealDevNo": 1200,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 11,
+      "Name": "设备[6]-逆变器6-总发电量",
+      "Unit": null,
+      "Addr": 25612,
+      "Xishu": 1.0,
+      "RealDevNo": 1201,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 12,
+      "Name": "设备[7]-逆变器7-当日发电量",
+      "Unit": null,
+      "Addr": 25613,
+      "Xishu": 1.0,
+      "RealDevNo": 1222,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 13,
+      "Name": "设备[7]-逆变器7-总发电量",
+      "Unit": null,
+      "Addr": 25614,
+      "Xishu": 1.0,
+      "RealDevNo": 1223,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 14,
+      "Name": "设备[8]-逆变器8-当日发电量",
+      "Unit": null,
+      "Addr": 25615,
+      "Xishu": 1.0,
+      "RealDevNo": 1244,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 15,
+      "Name": "设备[8]-逆变器8-总发电量",
+      "Unit": null,
+      "Addr": 25616,
+      "Xishu": 1.0,
+      "RealDevNo": 1245,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 16,
+      "Name": "设备[9]-逆变器9-当日发电量",
+      "Unit": null,
+      "Addr": 25617,
+      "Xishu": 1.0,
+      "RealDevNo": 1266,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 17,
+      "Name": "设备[9]-逆变器9-总发电量",
+      "Unit": null,
+      "Addr": 25618,
+      "Xishu": 1.0,
+      "RealDevNo": 1267,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 18,
+      "Name": "设备[10]-逆变器10-当日发电量",
+      "Unit": null,
+      "Addr": 25619,
+      "Xishu": 1.0,
+      "RealDevNo": 1288,
+      "type": 3,
+      "Idx": 0
+    },
+    {
+      "No": 19,
+      "Name": "设备[10]-逆变器10-总发电量",
+      "Unit": null,
+      "Addr": 25620,
+      "Xishu": 1.0,
+      "RealDevNo": 1289,
+      "type": 3,
+      "Idx": 0
+    }
+  ]
+}

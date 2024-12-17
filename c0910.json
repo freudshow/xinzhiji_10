@@ -1,0 +1,3327 @@
+{
+  "TcpModeEnable": 0,
+  "ClearData": 1,
+  "SendFramePeriod": 800,
+  "dataset": [
+    {
+      "DevIndex": "0",
+      "S_link": 9,
+      "S_linkDev": 1,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 1156,
+          "GetRegCount": 4,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1156,
+          "HighAddr": 1159,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-电网频率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1156,
+              "EndRegAddr": 1156,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-总有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1157,
+              "EndRegAddr": 1157,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-总无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1158,
+              "EndRegAddr": 1158,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-总视在功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1159,
+              "EndRegAddr": 1159,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 5,
+          "DataItemCount": 15,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 1165,
+          "GetRegCount": 33,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1165,
+          "HighAddr": 1197,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-A相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1165,
+              "EndRegAddr": 1165,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-A相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1166,
+              "EndRegAddr": 1166,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-A相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1167,
+              "EndRegAddr": 1167,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-A相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1168,
+              "EndRegAddr": 1168,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 4,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-A相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1169,
+              "EndRegAddr": 1169,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 5,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-B相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1176,
+              "EndRegAddr": 1176,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 6,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-B相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1177,
+              "EndRegAddr": 1177,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 7,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-B相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1178,
+              "EndRegAddr": 1178,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 8,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-B相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1179,
+              "EndRegAddr": 1179,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 9,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-B相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1180,
+              "EndRegAddr": 1180,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 10,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-C相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1187,
+              "EndRegAddr": 1187,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 11,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-C相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1188,
+              "EndRegAddr": 1188,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 12,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-C相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1189,
+              "EndRegAddr": 1189,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 13,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-C相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1190,
+              "EndRegAddr": 1190,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 14,
+              "KeyMode": null,
+              "KeyDec": "逆变器1-C相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1191,
+              "EndRegAddr": 1191,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 20,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 1668,
+          "GetRegCount": 4,
+          "AreaNum": 2,
+          "DataProperty": 3,
+          "DataType": "ModbusDataType_u32",
+          "DataTypeEnum": 2,
+          "LowAddr": 1668,
+          "HighAddr": 1671,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器1-当日发电量",
+            "逆变器1-总发电量"
+          ],
+          "KeyMode": [
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            0.01,
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 22,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 1028,
+          "GetRegCount": 1,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 1028,
+          "HighAddr": 1028,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器1-运行状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "1",
+      "S_link": 9,
+      "S_linkDev": 2,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 1156,
+          "GetRegCount": 4,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1156,
+          "HighAddr": 1159,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-电网频率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1156,
+              "EndRegAddr": 1156,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-总有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1157,
+              "EndRegAddr": 1157,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-总无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1158,
+              "EndRegAddr": 1158,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-总视在功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1159,
+              "EndRegAddr": 1159,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 5,
+          "DataItemCount": 15,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 1165,
+          "GetRegCount": 33,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1165,
+          "HighAddr": 1197,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-A相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1165,
+              "EndRegAddr": 1165,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-A相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1166,
+              "EndRegAddr": 1166,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-A相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1167,
+              "EndRegAddr": 1167,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-A相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1168,
+              "EndRegAddr": 1168,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 4,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-A相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1169,
+              "EndRegAddr": 1169,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 5,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-B相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1176,
+              "EndRegAddr": 1176,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 6,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-B相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1177,
+              "EndRegAddr": 1177,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 7,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-B相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1178,
+              "EndRegAddr": 1178,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 8,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-B相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1179,
+              "EndRegAddr": 1179,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 9,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-B相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1180,
+              "EndRegAddr": 1180,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 10,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-C相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1187,
+              "EndRegAddr": 1187,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 11,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-C相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1188,
+              "EndRegAddr": 1188,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 12,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-C相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1189,
+              "EndRegAddr": 1189,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 13,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-C相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1190,
+              "EndRegAddr": 1190,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 14,
+              "KeyMode": null,
+              "KeyDec": "逆变器2-C相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1191,
+              "EndRegAddr": 1191,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 20,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 1668,
+          "GetRegCount": 4,
+          "AreaNum": 2,
+          "DataProperty": 3,
+          "DataType": "ModbusDataType_u32",
+          "DataTypeEnum": 2,
+          "LowAddr": 1668,
+          "HighAddr": 1671,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器2-当日发电量",
+            "逆变器2-总发电量"
+          ],
+          "KeyMode": [
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            0.01,
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 22,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 1028,
+          "GetRegCount": 1,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 1028,
+          "HighAddr": 1028,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器2-运行状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "2",
+      "S_link": 9,
+      "S_linkDev": 3,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 1156,
+          "GetRegCount": 4,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1156,
+          "HighAddr": 1159,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-电网频率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1156,
+              "EndRegAddr": 1156,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-总有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1157,
+              "EndRegAddr": 1157,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-总无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1158,
+              "EndRegAddr": 1158,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-总视在功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1159,
+              "EndRegAddr": 1159,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 5,
+          "DataItemCount": 15,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 1165,
+          "GetRegCount": 33,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1165,
+          "HighAddr": 1197,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-A相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1165,
+              "EndRegAddr": 1165,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-A相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1166,
+              "EndRegAddr": 1166,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-A相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1167,
+              "EndRegAddr": 1167,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-A相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1168,
+              "EndRegAddr": 1168,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 4,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-A相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1169,
+              "EndRegAddr": 1169,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 5,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-B相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1176,
+              "EndRegAddr": 1176,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 6,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-B相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1177,
+              "EndRegAddr": 1177,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 7,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-B相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1178,
+              "EndRegAddr": 1178,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 8,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-B相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1179,
+              "EndRegAddr": 1179,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 9,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-B相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1180,
+              "EndRegAddr": 1180,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 10,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-C相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1187,
+              "EndRegAddr": 1187,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 11,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-C相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1188,
+              "EndRegAddr": 1188,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 12,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-C相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1189,
+              "EndRegAddr": 1189,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 13,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-C相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1190,
+              "EndRegAddr": 1190,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 14,
+              "KeyMode": null,
+              "KeyDec": "逆变器3-C相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1191,
+              "EndRegAddr": 1191,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 20,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 1668,
+          "GetRegCount": 4,
+          "AreaNum": 2,
+          "DataProperty": 3,
+          "DataType": "ModbusDataType_u32",
+          "DataTypeEnum": 2,
+          "LowAddr": 1668,
+          "HighAddr": 1671,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器3-当日发电量",
+            "逆变器3-总发电量"
+          ],
+          "KeyMode": [
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            0.01,
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 22,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 1028,
+          "GetRegCount": 1,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 1028,
+          "HighAddr": 1028,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器3-运行状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "3",
+      "S_link": 9,
+      "S_linkDev": 4,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 1156,
+          "GetRegCount": 4,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1156,
+          "HighAddr": 1159,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-电网频率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1156,
+              "EndRegAddr": 1156,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-总有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1157,
+              "EndRegAddr": 1157,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-总无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1158,
+              "EndRegAddr": 1158,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-总视在功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1159,
+              "EndRegAddr": 1159,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 5,
+          "DataItemCount": 15,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 1165,
+          "GetRegCount": 33,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1165,
+          "HighAddr": 1197,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-A相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1165,
+              "EndRegAddr": 1165,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-A相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1166,
+              "EndRegAddr": 1166,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-A相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1167,
+              "EndRegAddr": 1167,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-A相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1168,
+              "EndRegAddr": 1168,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 4,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-A相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1169,
+              "EndRegAddr": 1169,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 5,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-B相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1176,
+              "EndRegAddr": 1176,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 6,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-B相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1177,
+              "EndRegAddr": 1177,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 7,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-B相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1178,
+              "EndRegAddr": 1178,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 8,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-B相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1179,
+              "EndRegAddr": 1179,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 9,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-B相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1180,
+              "EndRegAddr": 1180,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 10,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-C相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1187,
+              "EndRegAddr": 1187,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 11,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-C相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1188,
+              "EndRegAddr": 1188,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 12,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-C相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1189,
+              "EndRegAddr": 1189,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 13,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-C相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1190,
+              "EndRegAddr": 1190,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 14,
+              "KeyMode": null,
+              "KeyDec": "逆变器4-C相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1191,
+              "EndRegAddr": 1191,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 20,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 1668,
+          "GetRegCount": 4,
+          "AreaNum": 2,
+          "DataProperty": 3,
+          "DataType": "ModbusDataType_u32",
+          "DataTypeEnum": 2,
+          "LowAddr": 1668,
+          "HighAddr": 1671,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器4-当日发电量",
+            "逆变器4-总发电量"
+          ],
+          "KeyMode": [
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            0.01,
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 22,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 1028,
+          "GetRegCount": 1,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 1028,
+          "HighAddr": 1028,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器4-运行状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "4",
+      "S_link": 9,
+      "S_linkDev": 5,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 1156,
+          "GetRegCount": 4,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1156,
+          "HighAddr": 1159,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-电网频率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1156,
+              "EndRegAddr": 1156,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-总有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1157,
+              "EndRegAddr": 1157,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-总无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1158,
+              "EndRegAddr": 1158,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-总视在功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1159,
+              "EndRegAddr": 1159,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 5,
+          "DataItemCount": 15,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 1165,
+          "GetRegCount": 33,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1165,
+          "HighAddr": 1197,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-A相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1165,
+              "EndRegAddr": 1165,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-A相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1166,
+              "EndRegAddr": 1166,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-A相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1167,
+              "EndRegAddr": 1167,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-A相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1168,
+              "EndRegAddr": 1168,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 4,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-A相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1169,
+              "EndRegAddr": 1169,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 5,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-B相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1176,
+              "EndRegAddr": 1176,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 6,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-B相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1177,
+              "EndRegAddr": 1177,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 7,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-B相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1178,
+              "EndRegAddr": 1178,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 8,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-B相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1179,
+              "EndRegAddr": 1179,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 9,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-B相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1180,
+              "EndRegAddr": 1180,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 10,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-C相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1187,
+              "EndRegAddr": 1187,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 11,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-C相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1188,
+              "EndRegAddr": 1188,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 12,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-C相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1189,
+              "EndRegAddr": 1189,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 13,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-C相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1190,
+              "EndRegAddr": 1190,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 14,
+              "KeyMode": null,
+              "KeyDec": "逆变器5-C相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1191,
+              "EndRegAddr": 1191,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 20,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 1668,
+          "GetRegCount": 4,
+          "AreaNum": 2,
+          "DataProperty": 3,
+          "DataType": "ModbusDataType_u32",
+          "DataTypeEnum": 2,
+          "LowAddr": 1668,
+          "HighAddr": 1671,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器5-当日发电量",
+            "逆变器5-总发电量"
+          ],
+          "KeyMode": [
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            0.01,
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 22,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 1028,
+          "GetRegCount": 1,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 1028,
+          "HighAddr": 1028,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器5-运行状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "5",
+      "S_link": 9,
+      "S_linkDev": 6,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 6,
+          "ModbusRegAddr": 1156,
+          "GetRegCount": 4,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1156,
+          "HighAddr": 1159,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-电网频率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1156,
+              "EndRegAddr": 1156,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-总有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1157,
+              "EndRegAddr": 1157,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-总无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1158,
+              "EndRegAddr": 1158,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-总视在功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1159,
+              "EndRegAddr": 1159,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 5,
+          "DataItemCount": 15,
+          "SlaveDevAddr": 6,
+          "ModbusRegAddr": 1165,
+          "GetRegCount": 33,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1165,
+          "HighAddr": 1197,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-A相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1165,
+              "EndRegAddr": 1165,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-A相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1166,
+              "EndRegAddr": 1166,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-A相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1167,
+              "EndRegAddr": 1167,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-A相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1168,
+              "EndRegAddr": 1168,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 4,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-A相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1169,
+              "EndRegAddr": 1169,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 5,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-B相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1176,
+              "EndRegAddr": 1176,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 6,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-B相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1177,
+              "EndRegAddr": 1177,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 7,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-B相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1178,
+              "EndRegAddr": 1178,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 8,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-B相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1179,
+              "EndRegAddr": 1179,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 9,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-B相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1180,
+              "EndRegAddr": 1180,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 10,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-C相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1187,
+              "EndRegAddr": 1187,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 11,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-C相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1188,
+              "EndRegAddr": 1188,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 12,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-C相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1189,
+              "EndRegAddr": 1189,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 13,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-C相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1190,
+              "EndRegAddr": 1190,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 14,
+              "KeyMode": null,
+              "KeyDec": "逆变器6-C相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1191,
+              "EndRegAddr": 1191,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 20,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 6,
+          "ModbusRegAddr": 1668,
+          "GetRegCount": 4,
+          "AreaNum": 2,
+          "DataProperty": 3,
+          "DataType": "ModbusDataType_u32",
+          "DataTypeEnum": 2,
+          "LowAddr": 1668,
+          "HighAddr": 1671,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器6-当日发电量",
+            "逆变器6-总发电量"
+          ],
+          "KeyMode": [
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            0.01,
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 22,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 6,
+          "ModbusRegAddr": 1028,
+          "GetRegCount": 1,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 1028,
+          "HighAddr": 1028,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器6-运行状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "6",
+      "S_link": 9,
+      "S_linkDev": 7,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 7,
+          "ModbusRegAddr": 1156,
+          "GetRegCount": 4,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1156,
+          "HighAddr": 1159,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-电网频率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1156,
+              "EndRegAddr": 1156,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-总有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1157,
+              "EndRegAddr": 1157,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-总无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1158,
+              "EndRegAddr": 1158,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-总视在功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1159,
+              "EndRegAddr": 1159,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 5,
+          "DataItemCount": 15,
+          "SlaveDevAddr": 7,
+          "ModbusRegAddr": 1165,
+          "GetRegCount": 33,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1165,
+          "HighAddr": 1197,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-A相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1165,
+              "EndRegAddr": 1165,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-A相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1166,
+              "EndRegAddr": 1166,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-A相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1167,
+              "EndRegAddr": 1167,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-A相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1168,
+              "EndRegAddr": 1168,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 4,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-A相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1169,
+              "EndRegAddr": 1169,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 5,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-B相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1176,
+              "EndRegAddr": 1176,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 6,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-B相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1177,
+              "EndRegAddr": 1177,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 7,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-B相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1178,
+              "EndRegAddr": 1178,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 8,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-B相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1179,
+              "EndRegAddr": 1179,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 9,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-B相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1180,
+              "EndRegAddr": 1180,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 10,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-C相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1187,
+              "EndRegAddr": 1187,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 11,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-C相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1188,
+              "EndRegAddr": 1188,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 12,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-C相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1189,
+              "EndRegAddr": 1189,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 13,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-C相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1190,
+              "EndRegAddr": 1190,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 14,
+              "KeyMode": null,
+              "KeyDec": "逆变器7-C相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1191,
+              "EndRegAddr": 1191,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 20,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 7,
+          "ModbusRegAddr": 1668,
+          "GetRegCount": 4,
+          "AreaNum": 2,
+          "DataProperty": 3,
+          "DataType": "ModbusDataType_u32",
+          "DataTypeEnum": 2,
+          "LowAddr": 1668,
+          "HighAddr": 1671,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器7-当日发电量",
+            "逆变器7-总发电量"
+          ],
+          "KeyMode": [
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            0.01,
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 22,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 7,
+          "ModbusRegAddr": 1028,
+          "GetRegCount": 1,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 1028,
+          "HighAddr": 1028,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器7-运行状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "7",
+      "S_link": 9,
+      "S_linkDev": 8,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 8,
+          "ModbusRegAddr": 1156,
+          "GetRegCount": 4,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1156,
+          "HighAddr": 1159,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-电网频率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1156,
+              "EndRegAddr": 1156,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-总有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1157,
+              "EndRegAddr": 1157,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-总无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1158,
+              "EndRegAddr": 1158,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-总视在功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1159,
+              "EndRegAddr": 1159,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 5,
+          "DataItemCount": 15,
+          "SlaveDevAddr": 8,
+          "ModbusRegAddr": 1165,
+          "GetRegCount": 33,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1165,
+          "HighAddr": 1197,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-A相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1165,
+              "EndRegAddr": 1165,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-A相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1166,
+              "EndRegAddr": 1166,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-A相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1167,
+              "EndRegAddr": 1167,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-A相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1168,
+              "EndRegAddr": 1168,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 4,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-A相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1169,
+              "EndRegAddr": 1169,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 5,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-B相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1176,
+              "EndRegAddr": 1176,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 6,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-B相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1177,
+              "EndRegAddr": 1177,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 7,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-B相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1178,
+              "EndRegAddr": 1178,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 8,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-B相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1179,
+              "EndRegAddr": 1179,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 9,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-B相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1180,
+              "EndRegAddr": 1180,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 10,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-C相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1187,
+              "EndRegAddr": 1187,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 11,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-C相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1188,
+              "EndRegAddr": 1188,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 12,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-C相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1189,
+              "EndRegAddr": 1189,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 13,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-C相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1190,
+              "EndRegAddr": 1190,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 14,
+              "KeyMode": null,
+              "KeyDec": "逆变器8-C相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1191,
+              "EndRegAddr": 1191,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 20,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 8,
+          "ModbusRegAddr": 1668,
+          "GetRegCount": 4,
+          "AreaNum": 2,
+          "DataProperty": 3,
+          "DataType": "ModbusDataType_u32",
+          "DataTypeEnum": 2,
+          "LowAddr": 1668,
+          "HighAddr": 1671,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器8-当日发电量",
+            "逆变器8-总发电量"
+          ],
+          "KeyMode": [
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            0.01,
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 22,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 8,
+          "ModbusRegAddr": 1028,
+          "GetRegCount": 1,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 1028,
+          "HighAddr": 1028,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器8-运行状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "8",
+      "S_link": 9,
+      "S_linkDev": 9,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 9,
+          "ModbusRegAddr": 1156,
+          "GetRegCount": 4,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1156,
+          "HighAddr": 1159,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-电网频率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1156,
+              "EndRegAddr": 1156,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-总有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1157,
+              "EndRegAddr": 1157,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-总无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1158,
+              "EndRegAddr": 1158,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-总视在功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1159,
+              "EndRegAddr": 1159,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 5,
+          "DataItemCount": 15,
+          "SlaveDevAddr": 9,
+          "ModbusRegAddr": 1165,
+          "GetRegCount": 33,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1165,
+          "HighAddr": 1197,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-A相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1165,
+              "EndRegAddr": 1165,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-A相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1166,
+              "EndRegAddr": 1166,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-A相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1167,
+              "EndRegAddr": 1167,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-A相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1168,
+              "EndRegAddr": 1168,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 4,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-A相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1169,
+              "EndRegAddr": 1169,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 5,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-B相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1176,
+              "EndRegAddr": 1176,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 6,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-B相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1177,
+              "EndRegAddr": 1177,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 7,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-B相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1178,
+              "EndRegAddr": 1178,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 8,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-B相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1179,
+              "EndRegAddr": 1179,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 9,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-B相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1180,
+              "EndRegAddr": 1180,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 10,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-C相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1187,
+              "EndRegAddr": 1187,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 11,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-C相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1188,
+              "EndRegAddr": 1188,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 12,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-C相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1189,
+              "EndRegAddr": 1189,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 13,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-C相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1190,
+              "EndRegAddr": 1190,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 14,
+              "KeyMode": null,
+              "KeyDec": "逆变器9-C相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1191,
+              "EndRegAddr": 1191,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 20,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 9,
+          "ModbusRegAddr": 1668,
+          "GetRegCount": 4,
+          "AreaNum": 2,
+          "DataProperty": 3,
+          "DataType": "ModbusDataType_u32",
+          "DataTypeEnum": 2,
+          "LowAddr": 1668,
+          "HighAddr": 1671,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器9-当日发电量",
+            "逆变器9-总发电量"
+          ],
+          "KeyMode": [
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            0.01,
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 22,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 9,
+          "ModbusRegAddr": 1028,
+          "GetRegCount": 1,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 1028,
+          "HighAddr": 1028,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器9-运行状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "9",
+      "S_link": 9,
+      "S_linkDev": 10,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 10,
+          "ModbusRegAddr": 1156,
+          "GetRegCount": 4,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1156,
+          "HighAddr": 1159,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-电网频率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1156,
+              "EndRegAddr": 1156,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-总有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1157,
+              "EndRegAddr": 1157,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-总无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1158,
+              "EndRegAddr": 1158,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-总视在功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1159,
+              "EndRegAddr": 1159,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 5,
+          "DataItemCount": 15,
+          "SlaveDevAddr": 10,
+          "ModbusRegAddr": 1165,
+          "GetRegCount": 33,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_MultiType",
+          "DataTypeEnum": 7,
+          "LowAddr": 1165,
+          "HighAddr": 1197,
+          "DataFormat": 0,
+          "KeyDec": null,
+          "KeyMode": null,
+          "KeyCoe": null,
+          "DataType_Bit": null,
+          "MultiTypeList": [
+            {
+              "No": 0,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-A相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1165,
+              "EndRegAddr": 1165,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 1,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-A相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1166,
+              "EndRegAddr": 1166,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 2,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-A相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1167,
+              "EndRegAddr": 1167,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 3,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-A相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1168,
+              "EndRegAddr": 1168,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 4,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-A相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1169,
+              "EndRegAddr": 1169,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 5,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-B相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1176,
+              "EndRegAddr": 1176,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 6,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-B相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1177,
+              "EndRegAddr": 1177,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 7,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-B相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1178,
+              "EndRegAddr": 1178,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 8,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-B相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1179,
+              "EndRegAddr": 1179,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 9,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-B相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1180,
+              "EndRegAddr": 1180,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 10,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-C相电压",
+              "KeyCoe": 0.1,
+              "StartRegAddr": 1187,
+              "EndRegAddr": 1187,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 11,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-C相电流",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1188,
+              "EndRegAddr": 1188,
+              "DataType": 1,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 12,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-C相有功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1189,
+              "EndRegAddr": 1189,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 13,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-C相无功功率",
+              "KeyCoe": 0.01,
+              "StartRegAddr": 1190,
+              "EndRegAddr": 1190,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            },
+            {
+              "No": 14,
+              "KeyMode": null,
+              "KeyDec": "逆变器10-C相功率因数",
+              "KeyCoe": 0.001,
+              "StartRegAddr": 1191,
+              "EndRegAddr": 1191,
+              "DataType": 4,
+              "DataFormat": 0,
+              "DataProperty": 1,
+              "DataBits": null
+            }
+          ]
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 20,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 10,
+          "ModbusRegAddr": 1668,
+          "GetRegCount": 4,
+          "AreaNum": 2,
+          "DataProperty": 3,
+          "DataType": "ModbusDataType_u32",
+          "DataTypeEnum": 2,
+          "LowAddr": 1668,
+          "HighAddr": 1671,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器10-当日发电量",
+            "逆变器10-总发电量"
+          ],
+          "KeyMode": [
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            0.01,
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 22,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 10,
+          "ModbusRegAddr": 1028,
+          "GetRegCount": 1,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 1028,
+          "HighAddr": 1028,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器10-运行状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    }
+  ]
+}

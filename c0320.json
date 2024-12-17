@@ -1,0 +1,3599 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 200,
+  "TotalYxCount": 159,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "逆变器1-运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "逆变器1-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "逆变器1-告警运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "逆变器1-故障停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "逆变器1-通讯故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "逆变器1-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "逆变器2-运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 0,
+      "Name": "逆变器2-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 0,
+      "Name": "逆变器2-告警运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 9,
+      "type": 0,
+      "Name": "逆变器2-故障停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 10,
+      "type": 0,
+      "Name": "逆变器2-通讯故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 11,
+      "type": 0,
+      "Name": "逆变器2-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 12,
+      "type": 0,
+      "Name": "逆变器3-运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 13,
+      "type": 0,
+      "Name": "逆变器3-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 14,
+      "type": 0,
+      "Name": "逆变器3-告警运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 15,
+      "type": 0,
+      "Name": "逆变器3-故障停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 16,
+      "type": 0,
+      "Name": "逆变器3-通讯故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 17,
+      "type": 0,
+      "Name": "逆变器3-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 18,
+      "type": 0,
+      "Name": "逆变器4-运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 19,
+      "type": 0,
+      "Name": "逆变器4-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 20,
+      "type": 0,
+      "Name": "逆变器4-告警运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 21,
+      "type": 0,
+      "Name": "逆变器4-故障停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 22,
+      "type": 0,
+      "Name": "逆变器4-通讯故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 23,
+      "type": 0,
+      "Name": "逆变器3-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 24,
+      "type": 0,
+      "Name": "逆变器5-运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 25,
+      "type": 0,
+      "Name": "逆变器5-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 26,
+      "type": 0,
+      "Name": "逆变器5-告警运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 27,
+      "type": 0,
+      "Name": "逆变器5-故障停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 28,
+      "type": 0,
+      "Name": "逆变器5-通讯故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 29,
+      "type": 0,
+      "Name": "逆变器3-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 30,
+      "type": 0,
+      "Name": "逆变器6-运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 31,
+      "type": 0,
+      "Name": "逆变器6-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 32,
+      "type": 0,
+      "Name": "逆变器6-告警运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 33,
+      "type": 0,
+      "Name": "逆变器6-故障停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 34,
+      "type": 0,
+      "Name": "逆变器6-通讯故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 35,
+      "type": 0,
+      "Name": "逆变器6-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 36,
+      "type": 0,
+      "Name": "逆变器7-运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 37,
+      "type": 0,
+      "Name": "逆变器7-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 38,
+      "type": 0,
+      "Name": "逆变器7-告警运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 39,
+      "type": 0,
+      "Name": "逆变器7-故障停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 40,
+      "type": 0,
+      "Name": "逆变器7-通讯故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 41,
+      "type": 0,
+      "Name": "逆变器7-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 42,
+      "type": 0,
+      "Name": "逆变器8-运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 43,
+      "type": 0,
+      "Name": "逆变器8-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 44,
+      "type": 0,
+      "Name": "逆变器8-告警运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 45,
+      "type": 0,
+      "Name": "逆变器8-故障停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 46,
+      "type": 0,
+      "Name": "逆变器8-通讯故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 47,
+      "type": 0,
+      "Name": "逆变器8-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 48,
+      "type": 0,
+      "Name": "逆变器9-运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 49,
+      "type": 0,
+      "Name": "逆变器9-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 50,
+      "type": 0,
+      "Name": "逆变器9-告警运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 51,
+      "type": 0,
+      "Name": "逆变器9-故障停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 52,
+      "type": 0,
+      "Name": "逆变器9-通讯故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 53,
+      "type": 0,
+      "Name": "逆变器9-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 54,
+      "type": 0,
+      "Name": "逆变器10-运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 55,
+      "type": 0,
+      "Name": "逆变器10-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 56,
+      "type": 0,
+      "Name": "逆变器10-告警运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 57,
+      "type": 0,
+      "Name": "逆变器10-故障停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 58,
+      "type": 0,
+      "Name": "逆变器10-通讯故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 59,
+      "type": 0,
+      "Name": "逆变器10-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 60,
+      "type": 0,
+      "Name": "逆变器11-运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 61,
+      "type": 0,
+      "Name": "逆变器11-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 62,
+      "type": 0,
+      "Name": "逆变器11-告警运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 63,
+      "type": 0,
+      "Name": "逆变器11-故障停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 64,
+      "type": 0,
+      "Name": "逆变器11-通讯故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 65,
+      "type": 0,
+      "Name": "逆变器11-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 66,
+      "type": 0,
+      "Name": "逆变器12-运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 67,
+      "type": 0,
+      "Name": "逆变器12-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 68,
+      "type": 0,
+      "Name": "逆变器12-告警运行",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 69,
+      "type": 0,
+      "Name": "逆变器12-故障停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 70,
+      "type": 0,
+      "Name": "逆变器12-通讯故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 71,
+      "type": 0,
+      "Name": "逆变器12-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 72,
+      "type": 0,
+      "Name": "预留遥信14",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 73,
+      "type": 0,
+      "Name": "预留遥信15",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 74,
+      "type": 0,
+      "Name": "预留遥信16",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 75,
+      "type": 0,
+      "Name": "预留遥信17",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 76,
+      "type": 0,
+      "Name": "预留遥信18",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 77,
+      "type": 0,
+      "Name": "预留遥信19",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 78,
+      "type": 0,
+      "Name": "预留遥信20",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 79,
+      "type": 0,
+      "Name": "预留遥信21",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 80,
+      "type": 0,
+      "Name": "预留遥信22",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 81,
+      "type": 0,
+      "Name": "预留遥信23",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 82,
+      "type": 0,
+      "Name": "预留遥信24",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 83,
+      "type": 0,
+      "Name": "预留遥信25",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 84,
+      "type": 0,
+      "Name": "预留遥信26",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 85,
+      "type": 0,
+      "Name": "预留遥信27",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 86,
+      "type": 0,
+      "Name": "预留遥信28",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 87,
+      "type": 0,
+      "Name": "预留遥信29",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 88,
+      "type": 0,
+      "Name": "预留遥信30",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 89,
+      "type": 0,
+      "Name": "预留遥信31",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 90,
+      "type": 0,
+      "Name": "预留遥信32",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 91,
+      "type": 0,
+      "Name": "预留遥信33",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 92,
+      "type": 0,
+      "Name": "预留遥信34",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 93,
+      "type": 0,
+      "Name": "预留遥信35",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 94,
+      "type": 0,
+      "Name": "预留遥信36",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 95,
+      "type": 0,
+      "Name": "预留遥信37",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 96,
+      "type": 0,
+      "Name": "预留遥信38",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 97,
+      "type": 0,
+      "Name": "预留遥信39",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 98,
+      "type": 0,
+      "Name": "预留遥信40",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 99,
+      "type": 0,
+      "Name": "预留遥信41",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 100,
+      "type": 0,
+      "Name": "预留遥信42",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 101,
+      "type": 0,
+      "Name": "预留遥信43",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 102,
+      "type": 0,
+      "Name": "预留遥信44",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 103,
+      "type": 0,
+      "Name": "预留遥信45",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 104,
+      "type": 0,
+      "Name": "预留遥信46",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 105,
+      "type": 0,
+      "Name": "预留遥信47",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 106,
+      "type": 0,
+      "Name": "预留遥信48",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 107,
+      "type": 0,
+      "Name": "预留遥信49",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 108,
+      "type": 0,
+      "Name": "预留遥信50",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 109,
+      "type": 0,
+      "Name": "预留遥信51",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 110,
+      "type": 0,
+      "Name": "预留遥信52",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 111,
+      "type": 0,
+      "Name": "预留遥信53",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 112,
+      "type": 0,
+      "Name": "预留遥信54",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 113,
+      "type": 0,
+      "Name": "预留遥信55",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 114,
+      "type": 0,
+      "Name": "预留遥信56",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 115,
+      "type": 0,
+      "Name": "预留遥信57",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 116,
+      "type": 0,
+      "Name": "预留遥信58",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 117,
+      "type": 0,
+      "Name": "预留遥信59",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 118,
+      "type": 0,
+      "Name": "预留遥信60",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 119,
+      "type": 0,
+      "Name": "预留遥信61",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 120,
+      "type": 0,
+      "Name": "预留遥信62",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 121,
+      "type": 0,
+      "Name": "预留遥信63",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 122,
+      "type": 0,
+      "Name": "预留遥信64",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 123,
+      "type": 0,
+      "Name": "预留遥信65",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 124,
+      "type": 0,
+      "Name": "预留遥信66",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 125,
+      "type": 0,
+      "Name": "预留遥信67",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 126,
+      "type": 0,
+      "Name": "预留遥信68",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 127,
+      "type": 0,
+      "Name": "预留遥信69",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 128,
+      "type": 0,
+      "Name": "预留遥信70",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 129,
+      "type": 0,
+      "Name": "预留遥信71",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 130,
+      "type": 0,
+      "Name": "预留遥信72",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 131,
+      "type": 0,
+      "Name": "预留遥信73",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 132,
+      "type": 0,
+      "Name": "预留遥信74",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 133,
+      "type": 0,
+      "Name": "预留遥信75",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 134,
+      "type": 0,
+      "Name": "预留遥信76",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 135,
+      "type": 0,
+      "Name": "预留遥信77",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 136,
+      "type": 0,
+      "Name": "预留遥信78",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 137,
+      "type": 0,
+      "Name": "预留遥信79",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 138,
+      "type": 0,
+      "Name": "预留遥信80",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 139,
+      "type": 0,
+      "Name": "预留遥信81",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 140,
+      "type": 0,
+      "Name": "预留遥信82",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 141,
+      "type": 0,
+      "Name": "预留遥信83",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 142,
+      "type": 0,
+      "Name": "预留遥信84",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 143,
+      "type": 0,
+      "Name": "预留遥信85",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 144,
+      "type": 0,
+      "Name": "预留遥信86",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 145,
+      "type": 0,
+      "Name": "预留遥信87",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 146,
+      "type": 0,
+      "Name": "预留遥信88",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 147,
+      "type": 0,
+      "Name": "预留遥信89",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 148,
+      "type": 0,
+      "Name": "预留遥信90",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 149,
+      "type": 0,
+      "Name": "预留遥信91",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 150,
+      "type": 0,
+      "Name": "预留遥信92",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 151,
+      "type": 0,
+      "Name": "预留遥信93",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 152,
+      "type": 0,
+      "Name": "预留遥信94",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 153,
+      "type": 0,
+      "Name": "预留遥信95",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 154,
+      "type": 0,
+      "Name": "预留遥信96",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 155,
+      "type": 0,
+      "Name": "预留遥信97",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 156,
+      "type": 0,
+      "Name": "预留遥信98",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 157,
+      "type": 0,
+      "Name": "预留遥信99",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 158,
+      "type": 0,
+      "Name": "预留遥信100",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "并网点电表1-CT变比",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "并网点电表2-CT变比",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "逆变器1-额定容量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "逆变器2-额定容量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "逆变器3-额定容量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "逆变器4-额定容量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "逆变器5-额定容量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "逆变器6-额定容量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "逆变器7-额定容量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "逆变器8-额定容量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "逆变器9-额定容量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "逆变器10-额定容量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "逆变器11-额定容量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "逆变器12-额定容量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "预留遥测3",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "预留遥测4",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 16,
+      "type": 1,
+      "Name": "预留遥测5",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 17,
+      "type": 1,
+      "Name": "预留遥测6",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 18,
+      "type": 1,
+      "Name": "预留遥测7",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 19,
+      "type": 1,
+      "Name": "预留遥测8",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 20,
+      "type": 1,
+      "Name": "预留遥测9",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 21,
+      "type": 1,
+      "Name": "预留遥测10",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 22,
+      "type": 1,
+      "Name": "预留遥测11",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 23,
+      "type": 1,
+      "Name": "预留遥测12",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 24,
+      "type": 1,
+      "Name": "预留遥测13",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 25,
+      "type": 1,
+      "Name": "预留遥测14",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 26,
+      "type": 1,
+      "Name": "预留遥测15",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 27,
+      "type": 1,
+      "Name": "预留遥测16",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 28,
+      "type": 1,
+      "Name": "预留遥测17",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 29,
+      "type": 1,
+      "Name": "预留遥测18",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 30,
+      "type": 1,
+      "Name": "预留遥测19",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 31,
+      "type": 1,
+      "Name": "预留遥测20",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 32,
+      "type": 1,
+      "Name": "预留遥测21",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 33,
+      "type": 1,
+      "Name": "预留遥测22",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 34,
+      "type": 1,
+      "Name": "预留遥测23",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 35,
+      "type": 1,
+      "Name": "预留遥测24",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 36,
+      "type": 1,
+      "Name": "预留遥测25",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 37,
+      "type": 1,
+      "Name": "预留遥测26",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 38,
+      "type": 1,
+      "Name": "预留遥测27",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 39,
+      "type": 1,
+      "Name": "预留遥测28",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 40,
+      "type": 1,
+      "Name": "预留遥测29",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 41,
+      "type": 1,
+      "Name": "预留遥测30",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 42,
+      "type": 1,
+      "Name": "预留遥测31",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 43,
+      "type": 1,
+      "Name": "预留遥测32",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 44,
+      "type": 1,
+      "Name": "预留遥测33",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 45,
+      "type": 1,
+      "Name": "预留遥测34",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 46,
+      "type": 1,
+      "Name": "预留遥测35",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 47,
+      "type": 1,
+      "Name": "预留遥测36",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 48,
+      "type": 1,
+      "Name": "预留遥测37",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 49,
+      "type": 1,
+      "Name": "预留遥测38",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 50,
+      "type": 1,
+      "Name": "预留遥测39",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 51,
+      "type": 1,
+      "Name": "预留遥测40",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 52,
+      "type": 1,
+      "Name": "预留遥测41",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 53,
+      "type": 1,
+      "Name": "预留遥测42",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 54,
+      "type": 1,
+      "Name": "预留遥测43",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 55,
+      "type": 1,
+      "Name": "预留遥测44",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 56,
+      "type": 1,
+      "Name": "预留遥测45",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 57,
+      "type": 1,
+      "Name": "预留遥测46",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 58,
+      "type": 1,
+      "Name": "预留遥测47",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 59,
+      "type": 1,
+      "Name": "预留遥测48",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 60,
+      "type": 1,
+      "Name": "预留遥测49",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 61,
+      "type": 1,
+      "Name": "预留遥测50",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 62,
+      "type": 1,
+      "Name": "预留遥测51",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 63,
+      "type": 1,
+      "Name": "预留遥测52",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 64,
+      "type": 1,
+      "Name": "预留遥测53",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 65,
+      "type": 1,
+      "Name": "预留遥测54",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 66,
+      "type": 1,
+      "Name": "预留遥测55",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 67,
+      "type": 1,
+      "Name": "预留遥测56",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 68,
+      "type": 1,
+      "Name": "预留遥测57",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 69,
+      "type": 1,
+      "Name": "预留遥测58",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 70,
+      "type": 1,
+      "Name": "预留遥测59",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 71,
+      "type": 1,
+      "Name": "预留遥测60",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 72,
+      "type": 1,
+      "Name": "预留遥测61",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 73,
+      "type": 1,
+      "Name": "预留遥测62",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 74,
+      "type": 1,
+      "Name": "预留遥测63",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 75,
+      "type": 1,
+      "Name": "预留遥测64",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 76,
+      "type": 1,
+      "Name": "预留遥测65",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 77,
+      "type": 1,
+      "Name": "预留遥测66",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 78,
+      "type": 1,
+      "Name": "预留遥测67",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 79,
+      "type": 1,
+      "Name": "预留遥测68",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 80,
+      "type": 1,
+      "Name": "预留遥测69",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 81,
+      "type": 1,
+      "Name": "预留遥测70",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 82,
+      "type": 1,
+      "Name": "预留遥测71",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 83,
+      "type": 1,
+      "Name": "预留遥测72",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 84,
+      "type": 1,
+      "Name": "预留遥测73",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 85,
+      "type": 1,
+      "Name": "预留遥测74",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 86,
+      "type": 1,
+      "Name": "预留遥测75",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 87,
+      "type": 1,
+      "Name": "预留遥测76",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 88,
+      "type": 1,
+      "Name": "预留遥测77",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 89,
+      "type": 1,
+      "Name": "预留遥测78",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 90,
+      "type": 1,
+      "Name": "预留遥测79",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 91,
+      "type": 1,
+      "Name": "预留遥测80",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 92,
+      "type": 1,
+      "Name": "预留遥测81",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 93,
+      "type": 1,
+      "Name": "预留遥测82",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 94,
+      "type": 1,
+      "Name": "预留遥测83",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 95,
+      "type": 1,
+      "Name": "预留遥测84",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 96,
+      "type": 1,
+      "Name": "预留遥测85",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 97,
+      "type": 1,
+      "Name": "预留遥测86",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 98,
+      "type": 1,
+      "Name": "预留遥测87",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 99,
+      "type": 1,
+      "Name": "预留遥测88",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 100,
+      "type": 1,
+      "Name": "预留遥测89",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 101,
+      "type": 1,
+      "Name": "预留遥测90",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 102,
+      "type": 1,
+      "Name": "预留遥测91",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 103,
+      "type": 1,
+      "Name": "预留遥测92",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 104,
+      "type": 1,
+      "Name": "预留遥测93",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 105,
+      "type": 1,
+      "Name": "预留遥测94",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 106,
+      "type": 1,
+      "Name": "预留遥测95",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 107,
+      "type": 1,
+      "Name": "预留遥测96",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 108,
+      "type": 1,
+      "Name": "预留遥测97",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 109,
+      "type": 1,
+      "Name": "预留遥测98",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 110,
+      "type": 1,
+      "Name": "预留遥测99",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 111,
+      "type": 1,
+      "Name": "预留遥测100",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 112,
+      "type": 1,
+      "Name": "预留遥测101",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 113,
+      "type": 1,
+      "Name": "预留遥测102",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 114,
+      "type": 1,
+      "Name": "预留遥测103",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 115,
+      "type": 1,
+      "Name": "预留遥测104",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 116,
+      "type": 1,
+      "Name": "预留遥测105",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 117,
+      "type": 1,
+      "Name": "预留遥测106",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 118,
+      "type": 1,
+      "Name": "预留遥测107",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 119,
+      "type": 1,
+      "Name": "预留遥测108",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 120,
+      "type": 1,
+      "Name": "预留遥测109",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 121,
+      "type": 1,
+      "Name": "预留遥测110",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 122,
+      "type": 1,
+      "Name": "预留遥测111",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 123,
+      "type": 1,
+      "Name": "预留遥测112",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 124,
+      "type": 1,
+      "Name": "预留遥测113",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 125,
+      "type": 1,
+      "Name": "预留遥测114",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 126,
+      "type": 1,
+      "Name": "预留遥测115",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 127,
+      "type": 1,
+      "Name": "预留遥测116",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 128,
+      "type": 1,
+      "Name": "预留遥测117",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 129,
+      "type": 1,
+      "Name": "预留遥测118",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 130,
+      "type": 1,
+      "Name": "预留遥测119",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 131,
+      "type": 1,
+      "Name": "预留遥测120",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 132,
+      "type": 1,
+      "Name": "预留遥测121",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 133,
+      "type": 1,
+      "Name": "预留遥测122",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 134,
+      "type": 1,
+      "Name": "预留遥测123",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 135,
+      "type": 1,
+      "Name": "预留遥测124",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 136,
+      "type": 1,
+      "Name": "预留遥测125",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 137,
+      "type": 1,
+      "Name": "预留遥测126",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 138,
+      "type": 1,
+      "Name": "预留遥测127",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 139,
+      "type": 1,
+      "Name": "预留遥测128",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 140,
+      "type": 1,
+      "Name": "预留遥测129",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 141,
+      "type": 1,
+      "Name": "预留遥测130",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 142,
+      "type": 1,
+      "Name": "预留遥测131",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 143,
+      "type": 1,
+      "Name": "预留遥测132",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 144,
+      "type": 1,
+      "Name": "预留遥测133",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 145,
+      "type": 1,
+      "Name": "预留遥测134",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 146,
+      "type": 1,
+      "Name": "预留遥测135",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 147,
+      "type": 1,
+      "Name": "预留遥测136",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 148,
+      "type": 1,
+      "Name": "预留遥测137",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 149,
+      "type": 1,
+      "Name": "预留遥测138",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 150,
+      "type": 1,
+      "Name": "预留遥测139",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 151,
+      "type": 1,
+      "Name": "预留遥测140",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 152,
+      "type": 1,
+      "Name": "预留遥测141",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 153,
+      "type": 1,
+      "Name": "预留遥测142",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 154,
+      "type": 1,
+      "Name": "预留遥测143",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 155,
+      "type": 1,
+      "Name": "预留遥测144",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 156,
+      "type": 1,
+      "Name": "预留遥测145",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 157,
+      "type": 1,
+      "Name": "预留遥测146",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 158,
+      "type": 1,
+      "Name": "预留遥测147",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 159,
+      "type": 1,
+      "Name": "预留遥测148",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 160,
+      "type": 1,
+      "Name": "预留遥测149",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 161,
+      "type": 1,
+      "Name": "预留遥测150",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 162,
+      "type": 1,
+      "Name": "预留遥测151",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 163,
+      "type": 1,
+      "Name": "预留遥测152",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 164,
+      "type": 1,
+      "Name": "预留遥测153",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 165,
+      "type": 1,
+      "Name": "预留遥测154",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 166,
+      "type": 1,
+      "Name": "预留遥测155",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 167,
+      "type": 1,
+      "Name": "预留遥测156",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 168,
+      "type": 1,
+      "Name": "预留遥测157",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 169,
+      "type": 1,
+      "Name": "预留遥测158",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 170,
+      "type": 1,
+      "Name": "预留遥测159",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 171,
+      "type": 1,
+      "Name": "预留遥测160",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 172,
+      "type": 1,
+      "Name": "预留遥测161",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 173,
+      "type": 1,
+      "Name": "预留遥测162",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 174,
+      "type": 1,
+      "Name": "预留遥测163",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 175,
+      "type": 1,
+      "Name": "预留遥测164",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 176,
+      "type": 1,
+      "Name": "预留遥测165",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 177,
+      "type": 1,
+      "Name": "预留遥测166",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 178,
+      "type": 1,
+      "Name": "预留遥测167",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 179,
+      "type": 1,
+      "Name": "预留遥测168",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 180,
+      "type": 1,
+      "Name": "预留遥测169",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 181,
+      "type": 1,
+      "Name": "预留遥测170",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 182,
+      "type": 1,
+      "Name": "预留遥测171",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 183,
+      "type": 1,
+      "Name": "预留遥测172",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 184,
+      "type": 1,
+      "Name": "预留遥测173",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 185,
+      "type": 1,
+      "Name": "预留遥测174",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 186,
+      "type": 1,
+      "Name": "预留遥测175",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 187,
+      "type": 1,
+      "Name": "预留遥测176",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 188,
+      "type": 1,
+      "Name": "预留遥测177",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 189,
+      "type": 1,
+      "Name": "预留遥测178",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 190,
+      "type": 1,
+      "Name": "预留遥测179",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 191,
+      "type": 1,
+      "Name": "预留遥测180",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 192,
+      "type": 1,
+      "Name": "预留遥测181",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 193,
+      "type": 1,
+      "Name": "预留遥测182",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 194,
+      "type": 1,
+      "Name": "预留遥测183",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 195,
+      "type": 1,
+      "Name": "预留遥测184",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 196,
+      "type": 1,
+      "Name": "预留遥测185",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 197,
+      "type": 1,
+      "Name": "预留遥测186",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 198,
+      "type": 1,
+      "Name": "预留遥测187",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 1,
+      "RegNo": 199,
+      "type": 1,
+      "Name": "预留遥测188",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}

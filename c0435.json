@@ -1,0 +1,593 @@
+{
+  "Period": 50,
+  "dataset": [
+    {
+      "DevIndex": 0,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 1092,
+          "Desc": "设备[1]-逆变器1-运行状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 492,
+          "Desc": "设备[0]-逆变器1-运行",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 493,
+          "Desc": "设备[0]-逆变器1-停机",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "5"
+        },
+        {
+          "RtdbNo": 495,
+          "Desc": "设备[0]-逆变器1-故障停机",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "4"
+        },
+        {
+          "RtdbNo": 497,
+          "Desc": "设备[0]-逆变器1-待机",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "0"
+        }
+      ]
+    },
+    {
+      "DevIndex": 1,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 1114,
+          "Desc": "设备[2]-逆变器2-运行状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 498,
+          "Desc": "设备[0]-逆变器2-运行",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 499,
+          "Desc": "设备[0]-逆变器2-停机",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "5"
+        },
+        {
+          "RtdbNo": 501,
+          "Desc": "设备[0]-逆变器2-故障停机",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "4"
+        },
+        {
+          "RtdbNo": 503,
+          "Desc": "设备[0]-逆变器2-待机",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "0"
+        }
+      ]
+    },
+    {
+      "DevIndex": 2,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 1136,
+          "Desc": "设备[3]-逆变器3-运行状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 504,
+          "Desc": "设备[0]-逆变器3-运行",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 505,
+          "Desc": "设备[0]-逆变器3-停机",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "5"
+        },
+        {
+          "RtdbNo": 507,
+          "Desc": "设备[0]-逆变器3-故障停机",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "4"
+        },
+        {
+          "RtdbNo": 509,
+          "Desc": "设备[0]-逆变器3-待机",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "0"
+        }
+      ]
+    },
+    {
+      "DevIndex": 3,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 1158,
+          "Desc": "设备[4]-逆变器4-运行状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 510,
+          "Desc": "设备[0]-逆变器4-运行",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 511,
+          "Desc": "设备[0]-逆变器4-停机",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "5"
+        },
+        {
+          "RtdbNo": 513,
+          "Desc": "设备[0]-逆变器4-故障停机",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "4"
+        },
+        {
+          "RtdbNo": 515,
+          "Desc": "设备[0]-逆变器4-待机",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "0"
+        }
+      ]
+    },
+    {
+      "DevIndex": 4,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 1180,
+          "Desc": "设备[5]-逆变器5-运行状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 516,
+          "Desc": "设备[0]-逆变器5-运行",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 517,
+          "Desc": "设备[0]-逆变器5-停机",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "5"
+        },
+        {
+          "RtdbNo": 519,
+          "Desc": "设备[0]-逆变器5-故障停机",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "4"
+        },
+        {
+          "RtdbNo": 521,
+          "Desc": "设备[0]-逆变器5-待机",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "0"
+        }
+      ]
+    },
+    {
+      "DevIndex": 5,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 1202,
+          "Desc": "设备[6]-逆变器6-运行状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 522,
+          "Desc": "设备[0]-逆变器6-运行",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 523,
+          "Desc": "设备[0]-逆变器6-停机",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "5"
+        },
+        {
+          "RtdbNo": 525,
+          "Desc": "设备[0]-逆变器6-故障停机",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "4"
+        },
+        {
+          "RtdbNo": 527,
+          "Desc": "设备[0]-逆变器6-待机",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "0"
+        }
+      ]
+    },
+    {
+      "DevIndex": 6,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 1224,
+          "Desc": "设备[7]-逆变器7-运行状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 528,
+          "Desc": "设备[0]-逆变器7-运行",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 529,
+          "Desc": "设备[0]-逆变器7-停机",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "5"
+        },
+        {
+          "RtdbNo": 531,
+          "Desc": "设备[0]-逆变器7-故障停机",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "4"
+        },
+        {
+          "RtdbNo": 533,
+          "Desc": "设备[0]-逆变器7-待机",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "0"
+        }
+      ]
+    },
+    {
+      "DevIndex": 7,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 1246,
+          "Desc": "设备[8]-逆变器8-运行状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 534,
+          "Desc": "设备[0]-逆变器8-运行",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 535,
+          "Desc": "设备[0]-逆变器8-停机",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "5"
+        },
+        {
+          "RtdbNo": 537,
+          "Desc": "设备[0]-逆变器8-故障停机",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "4"
+        },
+        {
+          "RtdbNo": 539,
+          "Desc": "设备[0]-逆变器8-待机",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "0"
+        }
+      ]
+    },
+    {
+      "DevIndex": 8,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 1268,
+          "Desc": "设备[9]-逆变器9-运行状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 540,
+          "Desc": "设备[0]-逆变器9-运行",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 541,
+          "Desc": "设备[0]-逆变器9-停机",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "5"
+        },
+        {
+          "RtdbNo": 543,
+          "Desc": "设备[0]-逆变器9-故障停机",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "4"
+        },
+        {
+          "RtdbNo": 545,
+          "Desc": "设备[0]-逆变器9-待机",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "0"
+        }
+      ]
+    },
+    {
+      "DevIndex": 9,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 1290,
+          "Desc": "设备[10]-逆变器10-运行状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 546,
+          "Desc": "设备[0]-逆变器10-运行",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 547,
+          "Desc": "设备[0]-逆变器10-停机",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "5"
+        },
+        {
+          "RtdbNo": 549,
+          "Desc": "设备[0]-逆变器10-故障停机",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "4"
+        },
+        {
+          "RtdbNo": 551,
+          "Desc": "设备[0]-逆变器10-待机",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "0"
+        }
+      ]
+    },
+    {
+      "DevIndex": 10,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 1312,
+          "Desc": "设备[11]-逆变器11-运行状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 552,
+          "Desc": "设备[0]-逆变器11-运行",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 553,
+          "Desc": "设备[0]-逆变器11-停机",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "5"
+        },
+        {
+          "RtdbNo": 555,
+          "Desc": "设备[0]-逆变器11-故障停机",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "4"
+        },
+        {
+          "RtdbNo": 557,
+          "Desc": "设备[0]-逆变器11-待机",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "0"
+        }
+      ]
+    },
+    {
+      "DevIndex": 11,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 1334,
+          "Desc": "设备[12]-逆变器12-运行状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 558,
+          "Desc": "设备[0]-逆变器12-运行",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 559,
+          "Desc": "设备[0]-逆变器12-停机",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "5"
+        },
+        {
+          "RtdbNo": 561,
+          "Desc": "设备[0]-逆变器12-故障停机",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "4"
+        },
+        {
+          "RtdbNo": 563,
+          "Desc": "设备[0]-逆变器12-待机",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "0"
+        }
+      ]
+    }
+  ]
+}
