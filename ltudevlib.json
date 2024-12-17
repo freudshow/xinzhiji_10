@@ -1,9 +1,9 @@
 {
   "YcLimiteEnable": 0,
-  "TotalYcCount": 915,
+  "TotalYcCount": 914,
   "TotalYxCount": 331,
-  "TotalYkCount": 138,
-  "TotalDDCount": 71,
+  "TotalYkCount": 140,
+  "TotalDDCount": 72,
   "TotalParameterCount": 0,
   "DataItemCount": 0,
   "realdatabaseclassRoot": [
@@ -12379,7 +12379,7 @@
       "DevModelName": null,
       "DevDescription": null,
       "DevPort": null,
-      "Name": "逆变器3-待机",
+      "Name": "逆变器4-待机",
       "Unit": null,
       "Ratio": 1.0,
       "DeadSet": 1.0,
@@ -12523,7 +12523,7 @@
       "DevModelName": null,
       "DevDescription": null,
       "DevPort": null,
-      "Name": "逆变器3-待机",
+      "Name": "逆变器5-待机",
       "Unit": null,
       "Ratio": 1.0,
       "DeadSet": 1.0,
@@ -31933,7 +31933,7 @@
       "linkNo": 11,
       "devNo": 1,
       "RegNo": 1,
-      "type": 1,
+      "type": 3,
       "DataModelName": "",
       "DevAddr": null,
       "DevModelName": null,
@@ -31948,7 +31948,7 @@
       "YcLowLimite": 0.5,
       "LessOrMore": 0,
       "GenerateVirtueYx": 0,
-      "GenerateModbusSlaveAddr": 45317,
+      "GenerateModbusSlaveAddr": 45319,
       "TypeProperty": 0
     },
     {
@@ -33417,6 +33417,54 @@
     },
     {
       "RealDevOrderNum": 1392,
+      "ProtolNum": 36,
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 135,
+      "type": 2,
+      "DataModelName": null,
+      "DevAddr": null,
+      "DevModelName": null,
+      "DevDescription": null,
+      "DevPort": null,
+      "Name": "下挂遥控135",
+      "Unit": null,
+      "Ratio": 0.0,
+      "DeadSet": 0.0,
+      "RouteIdx": 0,
+      "NewYcOverLimite": 0.0,
+      "YcLowLimite": 0.0,
+      "LessOrMore": 0,
+      "GenerateVirtueYx": 0,
+      "GenerateModbusSlaveAddr": 49182,
+      "TypeProperty": 0
+    },
+    {
+      "RealDevOrderNum": 1393,
+      "ProtolNum": 36,
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 136,
+      "type": 2,
+      "DataModelName": null,
+      "DevAddr": null,
+      "DevModelName": null,
+      "DevDescription": null,
+      "DevPort": null,
+      "Name": "下挂遥控136",
+      "Unit": null,
+      "Ratio": 0.0,
+      "DeadSet": 0.0,
+      "RouteIdx": 0,
+      "NewYcOverLimite": 0.0,
+      "YcLowLimite": 0.0,
+      "LessOrMore": 0,
+      "GenerateVirtueYx": 0,
+      "GenerateModbusSlaveAddr": 49186,
+      "TypeProperty": 0
+    },
+    {
+      "RealDevOrderNum": 1394,
       "ProtolNum": 39,
       "linkNo": 13,
       "devNo": 0,
@@ -33440,7 +33488,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1393,
+      "RealDevOrderNum": 1395,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33464,7 +33512,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1394,
+      "RealDevOrderNum": 1396,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33488,7 +33536,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1395,
+      "RealDevOrderNum": 1397,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33512,7 +33560,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1396,
+      "RealDevOrderNum": 1398,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33536,7 +33584,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1397,
+      "RealDevOrderNum": 1399,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33560,7 +33608,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1398,
+      "RealDevOrderNum": 1400,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33584,7 +33632,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1399,
+      "RealDevOrderNum": 1401,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33608,7 +33656,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1400,
+      "RealDevOrderNum": 1402,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33632,7 +33680,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1401,
+      "RealDevOrderNum": 1403,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33656,7 +33704,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1402,
+      "RealDevOrderNum": 1404,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33680,7 +33728,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1403,
+      "RealDevOrderNum": 1405,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33704,7 +33752,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1404,
+      "RealDevOrderNum": 1406,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33728,7 +33776,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1405,
+      "RealDevOrderNum": 1407,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33752,7 +33800,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1406,
+      "RealDevOrderNum": 1408,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33776,7 +33824,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1407,
+      "RealDevOrderNum": 1409,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33800,7 +33848,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1408,
+      "RealDevOrderNum": 1410,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33824,7 +33872,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1409,
+      "RealDevOrderNum": 1411,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33848,7 +33896,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1410,
+      "RealDevOrderNum": 1412,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33872,7 +33920,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1411,
+      "RealDevOrderNum": 1413,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33896,7 +33944,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1412,
+      "RealDevOrderNum": 1414,
       "ProtolNum": 61,
       "linkNo": 14,
       "devNo": 0,
@@ -33920,7 +33968,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1413,
+      "RealDevOrderNum": 1415,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -33944,7 +33992,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1414,
+      "RealDevOrderNum": 1416,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -33968,7 +34016,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1415,
+      "RealDevOrderNum": 1417,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -33992,7 +34040,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1416,
+      "RealDevOrderNum": 1418,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34016,7 +34064,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1417,
+      "RealDevOrderNum": 1419,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34040,7 +34088,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1418,
+      "RealDevOrderNum": 1420,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34064,7 +34112,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1419,
+      "RealDevOrderNum": 1421,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34088,7 +34136,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1420,
+      "RealDevOrderNum": 1422,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34112,7 +34160,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1421,
+      "RealDevOrderNum": 1423,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34136,7 +34184,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1422,
+      "RealDevOrderNum": 1424,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34160,7 +34208,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1423,
+      "RealDevOrderNum": 1425,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34184,7 +34232,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1424,
+      "RealDevOrderNum": 1426,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34208,7 +34256,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1425,
+      "RealDevOrderNum": 1427,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34232,7 +34280,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1426,
+      "RealDevOrderNum": 1428,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34256,7 +34304,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1427,
+      "RealDevOrderNum": 1429,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34280,7 +34328,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1428,
+      "RealDevOrderNum": 1430,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34304,7 +34352,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1429,
+      "RealDevOrderNum": 1431,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34328,7 +34376,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1430,
+      "RealDevOrderNum": 1432,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34352,7 +34400,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1431,
+      "RealDevOrderNum": 1433,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34376,7 +34424,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1432,
+      "RealDevOrderNum": 1434,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34400,7 +34448,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1433,
+      "RealDevOrderNum": 1435,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 1,
@@ -34424,7 +34472,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1434,
+      "RealDevOrderNum": 1436,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34448,7 +34496,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1435,
+      "RealDevOrderNum": 1437,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34472,7 +34520,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1436,
+      "RealDevOrderNum": 1438,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34496,7 +34544,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1437,
+      "RealDevOrderNum": 1439,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34520,7 +34568,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1438,
+      "RealDevOrderNum": 1440,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34544,7 +34592,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1439,
+      "RealDevOrderNum": 1441,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34568,7 +34616,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1440,
+      "RealDevOrderNum": 1442,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34592,7 +34640,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1441,
+      "RealDevOrderNum": 1443,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34616,7 +34664,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1442,
+      "RealDevOrderNum": 1444,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34640,7 +34688,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1443,
+      "RealDevOrderNum": 1445,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34664,7 +34712,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1444,
+      "RealDevOrderNum": 1446,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34688,7 +34736,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1445,
+      "RealDevOrderNum": 1447,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34712,7 +34760,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1446,
+      "RealDevOrderNum": 1448,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34736,7 +34784,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1447,
+      "RealDevOrderNum": 1449,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34760,7 +34808,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1448,
+      "RealDevOrderNum": 1450,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34784,7 +34832,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1449,
+      "RealDevOrderNum": 1451,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34808,7 +34856,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1450,
+      "RealDevOrderNum": 1452,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34832,7 +34880,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1451,
+      "RealDevOrderNum": 1453,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34856,7 +34904,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1452,
+      "RealDevOrderNum": 1454,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34880,7 +34928,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1453,
+      "RealDevOrderNum": 1455,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,
@@ -34904,7 +34952,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1454,
+      "RealDevOrderNum": 1456,
       "ProtolNum": 10,
       "linkNo": 15,
       "devNo": 2,

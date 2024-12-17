@@ -240,7 +240,7 @@
       "devNo": 0,
       "RegNo": 23,
       "type": 0,
-      "Name": "逆变器3-待机",
+      "Name": "逆变器4-待机",
       "ModelName": null,
       "Ratio": 1.0,
       "BoardDevAddr": 0
@@ -300,7 +300,7 @@
       "devNo": 0,
       "RegNo": 29,
       "type": 0,
-      "Name": "逆变器3-待机",
+      "Name": "逆变器5-待机",
       "ModelName": null,
       "Ratio": 1.0,
       "BoardDevAddr": 0
