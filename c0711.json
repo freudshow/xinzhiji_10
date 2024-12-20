@@ -2465,7 +2465,7 @@
       "No": 4,
       "Name": "设备[1]-有压自动合闸软压板遥控32",
       "Unit": null,
-      "Addr": 24580,
+      "Addr": 24579,
       "RealDevNo": 32,
       "type": 2,
       "Idx": 0
@@ -2477,7 +2477,7 @@
       "No": 5,
       "Name": "设备[1]-有压自动合闸软压板遥控32",
       "Unit": null,
-      "Addr": 24580,
+      "Addr": 24579,
       "RealDevNo": 32,
       "type": 2,
       "Idx": 0
@@ -2489,7 +2489,7 @@
       "No": 6,
       "Name": "设备[1]-子方阵AVC投入(单点)_软压板遥控24",
       "Unit": null,
-      "Addr": 24581,
+      "Addr": 24580,
       "RealDevNo": 24,
       "type": 2,
       "Idx": 0
@@ -2501,7 +2501,7 @@
       "No": 7,
       "Name": "设备[1]-子方阵AVC投入(单点)_软压板遥控24",
       "Unit": null,
-      "Addr": 24581,
+      "Addr": 24580,
       "RealDevNo": 24,
       "type": 2,
       "Idx": 0
@@ -2513,7 +2513,7 @@
       "No": 8,
       "Name": "设备[0]-下挂遥控131",
       "Unit": null,
-      "Addr": 24582,
+      "Addr": 24581,
       "RealDevNo": 131,
       "type": 2,
       "Idx": 0
@@ -2525,7 +2525,7 @@
       "No": 9,
       "Name": "设备[0]-下挂遥控132",
       "Unit": null,
-      "Addr": 24582,
+      "Addr": 24581,
       "RealDevNo": 132,
       "type": 2,
       "Idx": 0
@@ -2537,7 +2537,7 @@
       "No": 10,
       "Name": "设备[0]-下挂遥控133",
       "Unit": null,
-      "Addr": 24583,
+      "Addr": 24582,
       "RealDevNo": 133,
       "type": 2,
       "Idx": 0
@@ -2549,7 +2549,7 @@
       "No": 11,
       "Name": "设备[0]-下挂遥控134",
       "Unit": null,
-      "Addr": 24583,
+      "Addr": 24582,
       "RealDevNo": 134,
       "type": 2,
       "Idx": 0
@@ -2559,10 +2559,10 @@
       "Xishu": 0.0,
       "YkValue": 1,
       "No": 12,
-      "Name": "设备[0]-下挂遥控135",
+      "Name": "设备[1]-设备自身遥控1",
       "Unit": null,
-      "Addr": 24584,
-      "RealDevNo": 135,
+      "Addr": 24583,
+      "RealDevNo": 1,
       "type": 2,
       "Idx": 0
     },
@@ -2571,10 +2571,10 @@
       "Xishu": 0.0,
       "YkValue": 2,
       "No": 13,
-      "Name": "设备[0]-下挂遥控136",
+      "Name": "设备[1]-设备自身遥控2",
       "Unit": null,
-      "Addr": 24584,
-      "RealDevNo": 136,
+      "Addr": 24583,
+      "RealDevNo": 2,
       "type": 2,
       "Idx": 0
     },
@@ -2585,7 +2585,7 @@
       "No": 14,
       "Name": "设备[0]-逆变器1-组合关机",
       "Unit": null,
-      "Addr": 24585,
+      "Addr": 24584,
       "RealDevNo": 241,
       "type": 2,
       "Idx": 0
@@ -2597,7 +2597,7 @@
       "No": 15,
       "Name": "设备[0]-逆变器1-组合开机",
       "Unit": null,
-      "Addr": 24585,
+      "Addr": 24584,
       "RealDevNo": 242,
       "type": 2,
       "Idx": 0
@@ -2609,7 +2609,7 @@
       "No": 16,
       "Name": "设备[0]-逆变器2-组合关机",
       "Unit": null,
-      "Addr": 24586,
+      "Addr": 24585,
       "RealDevNo": 243,
       "type": 2,
       "Idx": 0
@@ -2621,7 +2621,7 @@
       "No": 17,
       "Name": "设备[0]-逆变器2-组合开机",
       "Unit": null,
-      "Addr": 24586,
+      "Addr": 24585,
       "RealDevNo": 244,
       "type": 2,
       "Idx": 0
@@ -2633,7 +2633,7 @@
       "No": 18,
       "Name": "设备[0]-逆变器3-组合关机",
       "Unit": null,
-      "Addr": 24587,
+      "Addr": 24586,
       "RealDevNo": 245,
       "type": 2,
       "Idx": 0
@@ -2645,7 +2645,7 @@
       "No": 19,
       "Name": "设备[0]-逆变器3-组合开机",
       "Unit": null,
-      "Addr": 24587,
+      "Addr": 24586,
       "RealDevNo": 246,
       "type": 2,
       "Idx": 0
@@ -2657,7 +2657,7 @@
       "No": 20,
       "Name": "设备[0]-逆变器4-组合关机",
       "Unit": null,
-      "Addr": 24588,
+      "Addr": 24587,
       "RealDevNo": 247,
       "type": 2,
       "Idx": 0
@@ -2669,7 +2669,7 @@
       "No": 21,
       "Name": "设备[0]-逆变器4-组合开机",
       "Unit": null,
-      "Addr": 24588,
+      "Addr": 24587,
       "RealDevNo": 248,
       "type": 2,
       "Idx": 0
@@ -2681,7 +2681,7 @@
       "No": 22,
       "Name": "设备[0]-逆变器5-组合关机",
       "Unit": null,
-      "Addr": 24589,
+      "Addr": 24588,
       "RealDevNo": 249,
       "type": 2,
       "Idx": 0
@@ -2693,7 +2693,7 @@
       "No": 23,
       "Name": "设备[0]-逆变器5-组合开机",
       "Unit": null,
-      "Addr": 24589,
+      "Addr": 24588,
       "RealDevNo": 250,
       "type": 2,
       "Idx": 0
@@ -2705,7 +2705,7 @@
       "No": 24,
       "Name": "设备[0]-逆变器6-组合关机",
       "Unit": null,
-      "Addr": 24590,
+      "Addr": 24589,
       "RealDevNo": 251,
       "type": 2,
       "Idx": 0
@@ -2717,7 +2717,7 @@
       "No": 25,
       "Name": "设备[0]-逆变器6-组合开机",
       "Unit": null,
-      "Addr": 24590,
+      "Addr": 24589,
       "RealDevNo": 252,
       "type": 2,
       "Idx": 0
@@ -2729,7 +2729,7 @@
       "No": 26,
       "Name": "设备[0]-逆变器7-组合关机",
       "Unit": null,
-      "Addr": 24591,
+      "Addr": 24590,
       "RealDevNo": 253,
       "type": 2,
       "Idx": 0
@@ -2741,7 +2741,7 @@
       "No": 27,
       "Name": "设备[0]-逆变器7-组合开机",
       "Unit": null,
-      "Addr": 24591,
+      "Addr": 24590,
       "RealDevNo": 254,
       "type": 2,
       "Idx": 0
@@ -2753,7 +2753,7 @@
       "No": 28,
       "Name": "设备[0]-逆变器8-组合关机",
       "Unit": null,
-      "Addr": 24592,
+      "Addr": 24591,
       "RealDevNo": 255,
       "type": 2,
       "Idx": 0
@@ -2765,7 +2765,7 @@
       "No": 29,
       "Name": "设备[0]-逆变器8-组合开机",
       "Unit": null,
-      "Addr": 24592,
+      "Addr": 24591,
       "RealDevNo": 256,
       "type": 2,
       "Idx": 0
@@ -2777,7 +2777,7 @@
       "No": 30,
       "Name": "设备[0]-逆变器9-组合关机",
       "Unit": null,
-      "Addr": 24593,
+      "Addr": 24592,
       "RealDevNo": 257,
       "type": 2,
       "Idx": 0
@@ -2789,7 +2789,7 @@
       "No": 31,
       "Name": "设备[0]-逆变器9-组合开机",
       "Unit": null,
-      "Addr": 24593,
+      "Addr": 24592,
       "RealDevNo": 258,
       "type": 2,
       "Idx": 0
@@ -2801,7 +2801,7 @@
       "No": 32,
       "Name": "设备[0]-逆变器10-组合关机",
       "Unit": null,
-      "Addr": 24594,
+      "Addr": 24593,
       "RealDevNo": 259,
       "type": 2,
       "Idx": 0
@@ -2813,7 +2813,7 @@
       "No": 33,
       "Name": "设备[0]-逆变器10-组合开机",
       "Unit": null,
-      "Addr": 24594,
+      "Addr": 24593,
       "RealDevNo": 260,
       "type": 2,
       "Idx": 0
