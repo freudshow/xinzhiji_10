@@ -1,7 +1,7 @@
 {
   "TcpModeEnable": 0,
   "ClearData": 1,
-  "SendFramePeriod": 1000,
+  "SendFramePeriod": 800,
   "dataset": [
     {
       "DevIndex": "0",
