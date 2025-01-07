@@ -1,0 +1,609 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 0,
+  "TotalYxCount": 0,
+  "TotalYkCount": 0,
+  "TotalDDCount": 60,
+  "dataItem": [
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 3,
+      "Name": "8#-正向有功总电能过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 3,
+      "Name": "9#-正向有功总电能过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 3,
+      "Name": "10#-正向有功总电能过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 3,
+      "Name": "逆变器1-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 3,
+      "Name": "逆变器1-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 3,
+      "Name": "逆变器2-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 3,
+      "Name": "逆变器2-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 3,
+      "Name": "逆变器3-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 3,
+      "Name": "逆变器3-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 9,
+      "type": 3,
+      "Name": "逆变器4-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 10,
+      "type": 3,
+      "Name": "逆变器4-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 11,
+      "type": 3,
+      "Name": "逆变器5-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 12,
+      "type": 3,
+      "Name": "逆变器5-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 13,
+      "type": 3,
+      "Name": "逆变器6-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 14,
+      "type": 3,
+      "Name": "逆变器6-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 15,
+      "type": 3,
+      "Name": "逆变器7-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 16,
+      "type": 3,
+      "Name": "逆变器7-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 17,
+      "type": 3,
+      "Name": "逆变器8-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 18,
+      "type": 3,
+      "Name": "逆变器8-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 19,
+      "type": 3,
+      "Name": "逆变器9-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 20,
+      "type": 3,
+      "Name": "逆变器9-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 21,
+      "type": 3,
+      "Name": "逆变器10-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 22,
+      "type": 3,
+      "Name": "逆变器10-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 23,
+      "type": 3,
+      "Name": "逆变器11-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 24,
+      "type": 3,
+      "Name": "逆变器11-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 25,
+      "type": 3,
+      "Name": "逆变器12-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 26,
+      "type": 3,
+      "Name": "逆变器12-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 27,
+      "type": 3,
+      "Name": "逆变器13-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 28,
+      "type": 3,
+      "Name": "逆变器13-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 29,
+      "type": 3,
+      "Name": "逆变器14-日发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 30,
+      "type": 3,
+      "Name": "逆变器14-总发电量过滤",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 31,
+      "type": 3,
+      "Name": "DD31",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 32,
+      "type": 3,
+      "Name": "DD32",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 33,
+      "type": 3,
+      "Name": "DD33",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 34,
+      "type": 3,
+      "Name": "DD34",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 35,
+      "type": 3,
+      "Name": "DD35",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 36,
+      "type": 3,
+      "Name": "DD36",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 37,
+      "type": 3,
+      "Name": "DD37",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 38,
+      "type": 3,
+      "Name": "DD38",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 39,
+      "type": 3,
+      "Name": "DD39",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 40,
+      "type": 3,
+      "Name": "DD40",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 41,
+      "type": 3,
+      "Name": "DD41",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 42,
+      "type": 3,
+      "Name": "DD42",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 43,
+      "type": 3,
+      "Name": "DD43",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 44,
+      "type": 3,
+      "Name": "DD44",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 45,
+      "type": 3,
+      "Name": "DD45",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 46,
+      "type": 3,
+      "Name": "DD46",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 47,
+      "type": 3,
+      "Name": "DD47",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 48,
+      "type": 3,
+      "Name": "DD48",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 49,
+      "type": 3,
+      "Name": "DD49",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 50,
+      "type": 3,
+      "Name": "DD50",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 51,
+      "type": 3,
+      "Name": "DD51",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 52,
+      "type": 3,
+      "Name": "DD52",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 53,
+      "type": 3,
+      "Name": "DD53",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 54,
+      "type": 3,
+      "Name": "DD54",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 55,
+      "type": 3,
+      "Name": "DD55",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 56,
+      "type": 3,
+      "Name": "DD56",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 57,
+      "type": 3,
+      "Name": "DD57",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 58,
+      "type": 3,
+      "Name": "DD58",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 16,
+      "devNo": 0,
+      "RegNo": 59,
+      "type": 3,
+      "Name": "DD59",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}
