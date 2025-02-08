@@ -9,7 +9,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1092,
+          "RtdbNo": 872,
           "Desc": "设备[1]-逆变器1-运行状态",
           "Type": 1,
           "No": 0,
@@ -58,7 +58,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1180,
+          "RtdbNo": 969,
           "Desc": "设备[2]-逆变器2-运行状态",
           "Type": 1,
           "No": 0,
@@ -107,7 +107,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1268,
+          "RtdbNo": 1066,
           "Desc": "设备[3]-逆变器3-运行状态",
           "Type": 1,
           "No": 0,
@@ -156,7 +156,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1356,
+          "RtdbNo": 1163,
           "Desc": "设备[4]-逆变器4-运行状态",
           "Type": 1,
           "No": 0,
@@ -205,7 +205,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1444,
+          "RtdbNo": 1260,
           "Desc": "设备[5]-逆变器5-运行状态",
           "Type": 1,
           "No": 0,
@@ -254,7 +254,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1532,
+          "RtdbNo": 1357,
           "Desc": "设备[6]-逆变器6-运行状态",
           "Type": 1,
           "No": 0,
@@ -303,7 +303,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1620,
+          "RtdbNo": 1454,
           "Desc": "设备[7]-逆变器7-运行状态",
           "Type": 1,
           "No": 0,
@@ -352,7 +352,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1708,
+          "RtdbNo": 1551,
           "Desc": "设备[8]-逆变器8-运行状态",
           "Type": 1,
           "No": 0,
@@ -401,7 +401,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1796,
+          "RtdbNo": 1648,
           "Desc": "设备[9]-逆变器9-运行状态",
           "Type": 1,
           "No": 0,
@@ -450,7 +450,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1884,
+          "RtdbNo": 1745,
           "Desc": "设备[10]-逆变器10-运行状态",
           "Type": 1,
           "No": 0,
